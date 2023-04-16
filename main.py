@@ -172,3 +172,53 @@ def get_recommendations(title: str):
 
     # Devolver las recomendaciones en el formato especificado
     return {'recomendacion': recomendaciones}
+
+
+tfidf = TfidfVectorizer(stop_words='english')
+tfidf_matrix = tfidf.fit_transform(df['title'])
+@app.get('/get_recommendationB/{titulo}')
+def get_recommendationsB(title: str):
+    indices = pd.Series(df.index, index=df['title'])
+    idx = indices[title]
+
+    cosine_sim = cosine_similarity(tfidf_matrix[idx], tfidf_matrix)
+    sim_scores = list(enumerate(cosine_sim[0]))
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    sim_scores = sim_scores[1:6]
+    movie_indices = [i[0] for i in sim_scores]
+    respuesta = df['title'].iloc[movie_indices].tolist()
+    return {'recomendacion': respuesta}
+
+
+@app.get('/get_recommendationC/{title}')
+def get_recommendationsC(title: str):    
+    # Crear el vectorizador TF-IDF
+    #vectorizer = TfidfVectorizer()
+    ## Aplicar el vectorizador a la columna 'listed_in' para obtener la matriz de características
+    #tfidf_matrix = vectorizer.fit_transform(df['title'])   
+     
+     # Crear el vectorizador TF-IDF
+    tfidf = TfidfVectorizer(stop_words='english')
+    tfidf_matrix = tfidf.fit_transform(df_corr['categorias'])
+    
+    # Obtener el índice de la película que coincide con el título proporcionado
+    idx = df_corr.index[df_corr['title'] == title.lower()].tolist()[0]
+    
+    # Calcular la matriz de similitud de coseno
+    cosine_sim = cosine_similarity(tfidf_matrix[idx], tfidf_matrix)
+    
+    # Obtener las puntuaciones de similitud de coseno de la película con todas las demás películas
+    sim_scores = list(enumerate(cosine_sim[0]))
+    
+    # Ordenar las películas según las puntuaciones de similitud
+    sim_scores = sorted(sim_scores, key=lambda x: x[1], reverse=True)
+    
+    # Obtener las cinco películas más similares, excluyendo la película de entrada
+    sim_scores = [i for i in sim_scores if i[0] != idx]
+    sim_scores = sim_scores[:5]
+    
+    # Obtener los títulos de las cinco películas más similares
+    recomendaciones = df_corr.iloc[[i[0] for i in sim_scores]]['title'].tolist()
+    
+    # Devolver las recomendaciones en el formato especificado
+    return {'recomendacion': recomendaciones} 
