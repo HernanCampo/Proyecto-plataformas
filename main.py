@@ -54,10 +54,7 @@ def get_score_count(plataforma: str, scored: float, year: int):
     # Cuento la cantidad de películas que tienen el rating deseado
     count = data_filtrada[data_filtrada['score'] > scored]['id'].count()
     
-    return {'plataforma': plataforma,
-            'cantidad': int(count),
-            'anio': year,
-            'score': scored}
+    return {'plataforma': plataforma,'cantidad': int(count),'anio': year,'score': scored}
         
     
 @app.get('/get_count_platform/{plataforma}')
@@ -69,8 +66,7 @@ def get_count_platform(plataforma: str):
     # Realizo el filtro para que cuente del dataframe solo la plataforma de la columna id y movie de la columna type.
     data_filtrada = df[(df['id'].str.startswith(platform)) & (df['type'] == 'movie')].shape[0]# Realizo el .shape en 0 para que me traiga solo la cantidad de filas que hay de ese filtro.    
 
-    return {'plataforma': plataforma,
-            'peliculas': data_filtrada}
+    return {'plataforma': plataforma,'peliculas': data_filtrada}
     
     
 @app.get('/get_actor/{plataforma}/{anio}')
@@ -107,17 +103,11 @@ def get_actor(plataforma: str, anio: int):
         # se asigna a actor_mas_repetido el primer elemento de la primera tupla en la lista actor_mas_repetido, que contiene el actor que aparece más veces.
         actor_mas_repetido = actor_mas_repetido[0][0]
     else:
-        return {'plataforma': plataforma,
-                'anio': anio,
-                'actor': "No hay datos disponibles",
-                'apariciones': "No hay datos disponibles"}
+        return {'plataforma': plataforma,'anio': anio,'actor': "No hay datos disponibles",'apariciones': "No hay datos disponibles"}
 
     # Muestro el actor que aparece más veces y la cantidad de veces que aparece
     cantidad_actor_mas_repetido = contador_actores[actor_mas_repetido]
-    return {'plataforma': plataforma,
-            'anio': anio,
-            'actor': actor_mas_repetido,
-            'apariciones': cantidad_actor_mas_repetido}
+    return {'plataforma': plataforma,'anio': anio,'actor': actor_mas_repetido,'apariciones': cantidad_actor_mas_repetido}
     
     
 @app.get('/prod_per_county/{tipo}/{pais}/{anio}')
@@ -147,9 +137,7 @@ def prod_per_county(tipo: str, pais: str, anio: int):
     # Obtener el recuento de películas para el país especificado
     respuesta = count_por_pais.get(pais, 0)
     
-    return {'pais': pais,
-            'anio': anio,            
-            'peliculas': respuesta}    
+    return {'pais': pais,'anio': anio,'peliculas': respuesta}    
         
 @app.get('/get_contents/{rating}')   
 def get_contents(rating: str):       
