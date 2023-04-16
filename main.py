@@ -149,8 +149,8 @@ def get_contents(rating: str):
             'contenido': int(respuesta)}
     
 
-@app.get('/get_recommendationA/{title}')
-def get_recommendationA(title: str):
+@app.get('/get_recomendationA/{title}')
+def get_recomendationA(title: str):
     
     #Me aseguro que si escriben en mayuscula llevarlo a minuscula.
     title = title.lower()
@@ -185,8 +185,8 @@ def get_recommendationA(title: str):
     return {'recomendacion': respuesta}
 
 
-@app.get('/get_recommendationB/{title}')
-def get_recommendationB(title: str):    
+@app.get('/get_recomendation/{title}')
+def get_recomendation(title: str):    
     
     #Me aseguro que si escriben en mayuscula llevarlo a minuscula.
     title = title.lower()
