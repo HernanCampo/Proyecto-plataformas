@@ -13,7 +13,7 @@ Los mismos estan en formato csv con los cuales debemos unirlos para realizar un 
 
 Realizar un trabajo de ETL sobre los datasets recibidos, luego, levantar una API generando diferentes endpoints que se consumiran en la API.
 
-Desarrollo API: Crear 6 funciones
+Desarrollo API: Crear 7 funciones
 
 - Película con mayor duración según año, plataforma y tipo de duración. La función se llama get_max_duration.
 
@@ -26,6 +26,8 @@ Desarrollo API: Crear 6 funciones
 - La cantidad de contenidos/productos (todo lo disponible en streaming) que se publicó por país y año. La función se llama prod_per_county.
 
 - La cantidad total de contenidos/productos según el rating de audiencia dado. La función debe llamarse get_contents.
+
+- Junto al modelo de ML crear un sistema de recomendacion de peliculas llamado get_recomendation.
 
 
 ## Contenidos del Repositorio:
