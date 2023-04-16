@@ -13,7 +13,21 @@ Los mismos estan en formato csv con los cuales debemos unirlos para realizar un 
 
 Realizar un trabajo de ETL sobre los datasets recibidos, luego, levantar una API generando diferentes endpoints que se consumiran en la API.
 
-Desarrollo API: Crear 7 funciones
+Transformaciones(ETL):
+
+- Generar columna id: Cada id se compondrá de la primera letra del nombre de la plataforma, seguido del show_id ya presente en los datasets.
+
+- Los valores nulos del campo rating deberán reemplazarse por el string “G”.
+
+- Las fechas deberán tener el formato AAAA-mm-dd.
+
+- Los campos de texto deberán estar en minúsculas.
+
+- La columna duration debe convertirse en dos: duration_int y duration_type.
+
+Desarrollo API: 
+
+Crear 7 funciones
 
 - Película con mayor duración según año, plataforma y tipo de duración. La función se llama get_max_duration.
 
@@ -64,8 +78,8 @@ anomalos.
 + FastAPI.
 
 ## Librerias utilizadas:
-- pandas - matplotlib - seaborn - uvicorn - scikit-learnuvicorn - scikit-learn
-- collections (Counter) - sklearn.feature_extraction.text import TfidfVectorizer - sklearn.metrics.pairwise import cosine_similarity
+- pandas - matplotlib - seaborn - uvicorn - scikit-learn - uvicorn - 
+- scikit-learn (TfidfVectorizer - cosine_similarity) - collections (Counter) 
 
 ## Links:
 
