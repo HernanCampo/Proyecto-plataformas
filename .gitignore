@@ -1,1 +1,6 @@
 /venv
+/ratings
+/amazon_prime_titles.csv
+/disney_plus_titles.csv
+/hulu_titles.csv
+/netflix_titles.csv
