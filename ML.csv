@@ -77,10 +77,10 @@ white tiger,3.5,"comedy,science fiction,action","['comedy', 'science fiction', '
 white savior: racism in the american church,3.5,"documentaries,music","['documentaries', 'music']"
 whistle stop,3.6,drama,['drama']
 where love found me,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
-where is chicky? - chapter two,3.6,"comedy,animation","['comedy', 'animation']"
-where is chicky? - chapter three,3.4,"comedy,animation","['comedy', 'animation']"
-where is chicky? - chapter one,3.5,"comedy,animation","['comedy', 'animation']"
-where is chicky? - chapter four,3.5,"comedy,animation","['comedy', 'animation']"
+where is chicky? - chapter two,3.6,animation,['animation']
+where is chicky? - chapter three,3.4,animation,['animation']
+where is chicky? - chapter one,3.5,animation,['animation']
+where is chicky? - chapter four,3.5,animation,['animation']
 where hands touch,3.4,"drama,documentaries","['drama', 'documentaries']"
 when the lights go on again,3.4,"drama,documentaries","['drama', 'documentaries']"
 when in your reflection,3.5,drama,['drama']
@@ -91,7 +91,7 @@ what price crime,3.5,"thriller,action","['thriller', 'action']"
 what comes around,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 western gold,3.5,"science fiction,documentaries,action","['science fiction', 'documentaries', 'action']"
 west of nevada,3.6,"comedy,drama","['comedy', 'drama']"
-welcome to the space show (english dub),3.7,"comedy,animation","['comedy', 'animation']"
+welcome to the space show (english dub),3.7,animation,['animation']
 welcome to kutsher's: the last catskills resort,3.5,documentaries,['documentaries']
 wedding cha shinema,3.6,"comedy,others","['comedy', 'others']"
 we'll take manhattan,3.5,"comedy,drama","['comedy', 'drama']"
@@ -231,10 +231,10 @@ three guys named mike,3.5,comedy,['comedy']
 those we love,3.5,drama,['drama']
 thomasine and bushrod,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 thomas sowell: common sense in a senseless world,3.5,"documentaries,music","['documentaries', 'music']"
-thomas & friends: the great discovery - the movie,3.6,"comedy,animation","['comedy', 'animation']"
-thomas & friends: tale of the brave - the movie,3.6,"comedy,animation","['comedy', 'animation']"
-thomas & friends: sodor's legend of the lost treasure (us),3.6,"comedy,animation","['comedy', 'animation']"
-thomas & friends: king of the railway - the movie,3.5,"comedy,animation","['comedy', 'animation']"
+thomas & friends: the great discovery - the movie,3.6,animation,['animation']
+thomas & friends: tale of the brave - the movie,3.6,animation,['animation']
+thomas & friends: sodor's legend of the lost treasure (us),3.6,animation,['animation']
+thomas & friends: king of the railway - the movie,3.5,animation,['animation']
 third eye spies,3.6,documentaries,['documentaries']
 think like a dog (4k uhd),3.5,"comedy,animation","['comedy', 'animation']"
 think like a dog,3.6,"comedy,animation","['comedy', 'animation']"
@@ -268,7 +268,7 @@ the vast of night,3.6,"drama,science fiction,thriller,action","['drama', 'scienc
 the underdog (1943),3.5,"drama,documentaries","['drama', 'documentaries']"
 the uncomfortable truth,3.5,"animation,documentaries","['animation', 'documentaries']"
 the ultimate legacy,3.5,"drama,music","['drama', 'music']"
-the trumpet of the swan,3.5,"comedy,animation","['comedy', 'animation']"
+the trumpet of the swan,3.5,animation,['animation']
 the trump prophecy,3.5,"drama,music","['drama', 'music']"
 the true adventures of wolfboy,3.5,"comedy,drama","['comedy', 'drama']"
 the terror,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -287,7 +287,7 @@ the spectaculars,3.5,comedy,['comedy']
 the special,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 the souvenir,3.5,"comedy,drama","['comedy', 'drama']"
 the snows of kilimanjaro,3.5,"comedy,drama","['comedy', 'drama']"
-the snow queen: magic of the ice mirror,3.6,"comedy,animation","['comedy', 'animation']"
+the snow queen: magic of the ice mirror,3.6,animation,['animation']
 the sklar brothers: what are we talking about?,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 the silent wrecks of kwajalein atoll,3.5,documentaries,['documentaries']
 the silent army,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
@@ -325,14 +325,14 @@ the owl and the pussycat,3.5,comedy,['comedy']
 the over-the-hill gang rides again,3.4,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the outsider,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the out of towners,3.6,comedy,['comedy']
-the orphle bandits & more kids cartoons - morphle,3.6,"comedy,animation","['comedy', 'animation']"
+the orphle bandits & more kids cartoons - morphle,3.6,animation,['animation']
 the oohlas,3.6,music,['music']
 the odd couple,3.5,"comedy,drama","['comedy', 'drama']"
 the nutty professor (1963),3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the north star,3.5,"drama,documentaries","['drama', 'documentaries']"
 the night is young,3.6,comedy,['comedy']
 the night crew,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
-the night before christmas,3.5,"comedy,animation","['comedy', 'animation']"
+the night before christmas,3.5,animation,['animation']
 the new adventures of tarzan,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the natural history of the chicken,3.5,documentaries,['documentaries']
 the myth of fingerprints,3.6,"comedy,drama","['comedy', 'drama']"
@@ -345,7 +345,7 @@ the monopoly on violence,3.6,documentaries,['documentaries']
 the monkey's paw,3.6,"thriller,action","['thriller', 'action']"
 the missing lynx,3.6,"comedy,animation","['comedy', 'animation']"
 the missing corpse,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
-the miracle maker,3.5,"comedy,drama,animation,music","['comedy', 'drama', 'animation', 'music']"
+the miracle maker,3.5,"drama,animation,music","['drama', 'animation', 'music']"
 the mine adventure with shawn the train and team - in search of crystals and friendship,3.6,animation,['animation']
 the milky way,3.5,documentaries,['documentaries']
 the marksman,3.6,comedy,['comedy']
@@ -353,14 +353,14 @@ the mandela effect,3.5,"drama,science fiction,action","['drama', 'science fictio
 the man who knew bush,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 the man from utah,3.5,"science fiction,action","['science fiction', 'action']"
 the man from cheyenne,3.6,"science fiction,action","['science fiction', 'action']"
-the magic lamp and the moving islands (subbed),3.5,"comedy,animation","['comedy', 'animation']"
-the magic lamp and the moving islands (dubbed),3.5,"comedy,animation","['comedy', 'animation']"
+the magic lamp and the moving islands (subbed),3.5,animation,['animation']
+the magic lamp and the moving islands (dubbed),3.5,animation,['animation']
 the lucy show - vol. 2,3.5,comedy,['comedy']
 the lucy show - vol. 1,3.6,comedy,['comedy']
 the long walk home,3.5,"drama,animation","['drama', 'animation']"
 the little traitor,3.5,drama,['drama']
-the little prince,3.6,"comedy,animation","['comedy', 'animation']"
-the little match girl,3.6,"comedy,animation","['comedy', 'animation']"
+the little prince,3.6,animation,['animation']
+the little match girl,3.6,animation,['animation']
 the little foxes,3.5,"comedy,drama","['comedy', 'drama']"
 the liberation of l.b. jones,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 the lemonheads,3.5,music,['music']
@@ -468,7 +468,7 @@ the competition,3.6,"comedy,drama,documentaries,others","['comedy', 'drama', 'do
 the collector,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 the cleansing,3.5,thriller,['thriller']
 the christmas lodge,3.6,"comedy,drama","['comedy', 'drama']"
-the christmas elves,3.4,"comedy,animation","['comedy', 'animation']"
+the christmas elves,3.4,animation,['animation']
 the christmas candle,3.5,"comedy,drama,music","['comedy', 'drama', 'music']"
 the changeling,3.6,drama,['drama']
 the capture,3.6,"science fiction,action","['science fiction', 'action']"
@@ -518,15 +518,15 @@ testing title - parichey is using this title,3.5,comedy,['comedy']
 terrordactyl,3.5,"science fiction,action","['science fiction', 'action']"
 terror by night,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 tennessee queer,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
-tenkai knights - rise of the knights,3.6,"comedy,animation","['comedy', 'animation']"
+tenkai knights - rise of the knights,3.6,animation,['animation']
 templar nation,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 tel aviv on fire,3.6,comedy,['comedy']
 teenkahon,3.6,"comedy,others","['comedy', 'others']"
 teenage bank heist,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 teen lust,3.4,"comedy,thriller","['comedy', 'thriller']"
 tear the roof off: the untold story of parliament funkadelic,3.5,documentaries,['documentaries']
-"team hot wheels, skills to thrill",3.4,"comedy,animation","['comedy', 'animation']"
-"team hot wheels, build the epic race",3.5,"comedy,animation","['comedy', 'animation']"
+"team hot wheels, skills to thrill",3.4,animation,['animation']
+"team hot wheels, build the epic race",3.5,animation,['animation']
 tattoo nation,3.5,documentaries,['documentaries']
 tarzan the fearless,3.7,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 tarzan and the trappers,3.5,comedy,['comedy']
@@ -537,7 +537,7 @@ tamara,3.5,thriller,['thriller']
 tall firs,3.6,music,['music']
 taking 5,3.5,comedy,['comedy']
 takatak,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
-"tad, the lost explorer and the secret of king midas",3.6,"comedy,animation","['comedy', 'animation']"
+"tad, the lost explorer and the secret of king midas",3.6,animation,['animation']
 t-rex ranch dinosaur adventures,3.5,animation,['animation']
 symphony to rushing water,3.5,"documentaries,music","['documentaries', 'music']"
 symphony to iceland's gulfoss waterfall,3.5,"documentaries,music","['documentaries', 'music']"
@@ -554,11 +554,11 @@ survivors guide to prison,3.5,"thriller,documentaries,action","['thriller', 'doc
 super size me 2: holy chicken!,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 super size me,3.6,documentaries,['documentaries']
 super jojo - yes yes vegetables song,3.5,animation,['animation']
-supa strikas - keep calm and soccer on,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-"supa strikas - eat, sleep, play soccer",3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-supa strikas - best in the field,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-supa strikas - alive and kickin',3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-supa strikas - a goal in one!,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+supa strikas - keep calm and soccer on,3.5,"animation,documentaries","['animation', 'documentaries']"
+"supa strikas - eat, sleep, play soccer",3.5,"animation,documentaries","['animation', 'documentaries']"
+supa strikas - best in the field,3.5,"animation,documentaries","['animation', 'documentaries']"
+supa strikas - alive and kickin',3.5,"animation,documentaries","['animation', 'documentaries']"
+supa strikas - a goal in one!,3.6,"animation,documentaries","['animation', 'documentaries']"
 sunshine state,3.4,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 sunshine hotel,3.6,documentaries,['documentaries']
 sunset on the desert,3.5,"science fiction,action","['science fiction', 'action']"
@@ -575,14 +575,14 @@ street dance,3.5,"drama,documentaries,others","['drama', 'documentaries', 'other
 strategic air command,3.5,"comedy,drama","['comedy', 'drama']"
 strange wilderness,3.6,"comedy,documentaries","['comedy', 'documentaries']"
 straight shooter,3.4,"science fiction,action","['science fiction', 'action']"
-storytime with mila and morphle,3.5,"comedy,animation","['comedy', 'animation']"
+storytime with mila and morphle,3.5,animation,['animation']
 storm boy,3.6,"drama,animation,music","['drama', 'animation', 'music']"
 stop making sense,3.5,"documentaries,music","['documentaries', 'music']"
 stitches,3.6,"comedy,thriller","['comedy', 'thriller']"
 still today,3.6,comedy,['comedy']
 still mine,3.5,"drama,documentaries","['drama', 'documentaries']"
 sticky fingers,3.5,comedy,['comedy']
-stick man,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+stick man,3.5,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 steve treviño: my life in quarantine,3.6,"documentaries,others","['documentaries', 'others']"
 steve hofstetter: ginger kid,3.5,"documentaries,others","['documentaries', 'others']"
 steve byrne: the byrne identity,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -827,13 +827,13 @@ porky's ii: the next day,3.6,"comedy,documentaries","['comedy', 'documentaries']
 popular nursery rhymes,3.6,animation,['animation']
 polylove,3.6,"documentaries,others","['documentaries', 'others']"
 pollyanna,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-pocoyo in cinemas: your first movie,3.5,"comedy,animation","['comedy', 'animation']"
+pocoyo in cinemas: your first movie,3.5,animation,['animation']
 pocket full of game,3.6,"comedy,drama","['comedy', 'drama']"
-playtime with mila and morphle,3.6,"comedy,animation","['comedy', 'animation']"
+playtime with mila and morphle,3.6,animation,['animation']
 planet of the humans,3.5,documentaries,['documentaries']
 pit stop,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 piranha,3.5,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
-pinkfong! dinosaur friends,3.5,"comedy,animation","['comedy', 'animation']"
+pinkfong! dinosaur friends,3.5,animation,['animation']
 pink heat,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 pink floyd: the dark side of the moon,3.5,documentaries,['documentaries']
 photograph,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
@@ -912,11 +912,11 @@ nursery rhymes volume 9 by little baby bum - party time,3.5,animation,['animatio
 nursery rhymes volume 8 by little baby bum - lullabies,3.4,animation,['animation']
 nursery rhymes volume 6 by little baby bum,3.5,animation,['animation']
 nursery rhymes volume 4 by little baby bum,3.6,animation,['animation']
-nursery rhymes volume 3 by little baby bum,3.5,"comedy,animation","['comedy', 'animation']"
+nursery rhymes volume 3 by little baby bum,3.5,animation,['animation']
 nursery rhymes volume 12 by little baby bum - abc 123 learning,3.6,animation,['animation']
 nursery rhymes volume 10 by little baby bum - vehicles,3.5,animation,['animation']
 nursery rhymes by kiiyii vol 3 - learning (made by little baby bum!),3.5,animation,['animation']
-nursery rhymes by kiiyii (made by little baby bum!),3.6,"comedy,animation","['comedy', 'animation']"
+nursery rhymes by kiiyii (made by little baby bum!),3.6,animation,['animation']
 nursery rhymes - mother goose club: learn to rhyme!,3.5,animation,['animation']
 nursery rhymes - mother goose club playhouse presents rhyme with us!,3.5,"animation,music","['animation', 'music']"
 nursery rhymes - jump up and rhyme with mother goose club,3.6,"animation,music","['animation', 'music']"
@@ -937,8 +937,8 @@ nine lives,3.5,"thriller,action","['thriller', 'action']"
 night of the running man,3.6,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
 night falls on manhattan,3.5,drama,['drama']
 night at the follies,3.6,"documentaries,others","['documentaries', 'others']"
-night at high noon and the wonder gate (subbed),3.4,"comedy,animation","['comedy', 'animation']"
-night at high noon and the wonder gate (dubbed),3.5,"comedy,animation","['comedy', 'animation']"
+night at high noon and the wonder gate (subbed),3.4,animation,['animation']
+night at high noon and the wonder gate (dubbed),3.5,animation,['animation']
 nicole blaine: life's a bit,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 nick thune: good guy,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 nick thune: folk hero,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -1016,16 +1016,16 @@ mountain patrol,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documenta
 mothers of the bride,3.6,comedy,['comedy']
 mother (silent),3.5,others,['others']
 most likely to succeed,3.5,"drama,documentaries","['drama', 'documentaries']"
-morphle non-dialogue - mila and morphle's magical life,3.5,"comedy,animation","['comedy', 'animation']"
-morphle and mila easter special,3.6,"comedy,animation","['comedy', 'animation']"
-morphle and mila dinosaur adventures,3.5,"comedy,animation","['comedy', 'animation']"
-morphle - we love animals & more magical kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-morphle - the return of orphle & more kids cartoons,3.6,"comedy,animation","['comedy', 'animation']"
-morphle - robot mila and more cartoons,3.6,"comedy,animation","['comedy', 'animation']"
-morphle - my magic animals,3.5,"comedy,animation","['comedy', 'animation']"
-morphle - magical cartoons & more educational videos for kids,3.6,"comedy,animation","['comedy', 'animation']"
-morphle - fairytale adventures & more cartoons for kids,3.5,"comedy,animation","['comedy', 'animation']"
-morphle - building with morphle,3.5,"comedy,animation","['comedy', 'animation']"
+morphle non-dialogue - mila and morphle's magical life,3.5,animation,['animation']
+morphle and mila easter special,3.6,animation,['animation']
+morphle and mila dinosaur adventures,3.5,animation,['animation']
+morphle - we love animals & more magical kids cartoons,3.5,animation,['animation']
+morphle - the return of orphle & more kids cartoons,3.6,animation,['animation']
+morphle - robot mila and more cartoons,3.6,animation,['animation']
+morphle - my magic animals,3.5,animation,['animation']
+morphle - magical cartoons & more educational videos for kids,3.6,animation,['animation']
+morphle - fairytale adventures & more cartoons for kids,3.5,animation,['animation']
+morphle - building with morphle,3.5,animation,['animation']
 morning meditation on lake washington,3.5,documentaries,['documentaries']
 morning meditation at carmel estuary,3.5,documentaries,['documentaries']
 morgan murphy: irish goodbye,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -1037,7 +1037,7 @@ moondog airwaves,3.6,"comedy,thriller","['comedy', 'thriller']"
 moondance alexander,3.6,"drama,documentaries","['drama', 'documentaries']"
 monte carlo nights,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 monsters are waiting,3.6,music,['music']
-monster truck word crusher part 3,3.5,"comedy,animation","['comedy', 'animation']"
+monster truck word crusher part 3,3.5,animation,['animation']
 monster truck counting for kids,3.5,animation,['animation']
 monster,3.4,"comedy,drama","['comedy', 'drama']"
 money kings,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -1050,15 +1050,15 @@ missing,3.5,"thriller,action,others","['thriller', 'action', 'others']"
 miracle on highway 34,3.5,"drama,documentaries","['drama', 'documentaries']"
 miracle kid,3.6,"comedy,drama","['comedy', 'drama']"
 miracle dogs too,3.5,"drama,animation","['drama', 'animation']"
-minuscule: valley of the lost ants,3.5,"comedy,animation","['comedy', 'animation']"
+minuscule: valley of the lost ants,3.5,animation,['animation']
 mini witch,3.5,animation,['animation']
 minesweeper,3.6,"comedy,documentaries","['comedy', 'documentaries']"
 mind over murder,3.5,"thriller,action","['thriller', 'action']"
 millie,3.5,drama,['drama']
-mila and morphle's magical friendship,3.5,"comedy,animation","['comedy', 'animation']"
-mila and morphle's magical friends,3.6,"comedy,animation","['comedy', 'animation']"
-mila and morphle's magical christmas,3.4,"comedy,animation","['comedy', 'animation']"
-mila and morphle's awesome adventures,3.5,"comedy,animation","['comedy', 'animation']"
+mila and morphle's magical friendship,3.5,animation,['animation']
+mila and morphle's magical friends,3.6,animation,['animation']
+mila and morphle's magical christmas,3.4,animation,['animation']
+mila and morphle's awesome adventures,3.5,animation,['animation']
 mike birbiglia: what i should have said was nothing,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 mike birbiglia: my girlfriend's boyfriend,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 midnight waterfalls for sleep 8 hours,3.6,documentaries,['documentaries']
@@ -1087,10 +1087,10 @@ mca (middle class abbayi),3.6,"drama,others","['drama', 'others']"
 mayor cupcake,3.5,drama,['drama']
 maximum ride,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 max: live from the greek theatre,3.5,"documentaries,others,music","['documentaries', 'others', 'music']"
-max steel turbo warriors,3.5,"comedy,animation","['comedy', 'animation']"
-max steel turbo charged,3.6,"comedy,animation","['comedy', 'animation']"
-max steel team turbo,3.5,"comedy,animation","['comedy', 'animation']"
-max steel fusion tek,3.6,"comedy,animation","['comedy', 'animation']"
+max steel turbo warriors,3.5,animation,['animation']
+max steel turbo charged,3.6,animation,['animation']
+max steel team turbo,3.5,animation,['animation']
+max steel fusion tek,3.6,animation,['animation']
 matt braunger: big dumb animal,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 matt besser: pot humor,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 mathu vadalara,3.5,drama,['drama']
@@ -1132,7 +1132,7 @@ make a wish,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'othe
 majili,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 maidentrip,3.6,"comedy,science fiction,documentaries,action","['comedy', 'science fiction', 'documentaries', 'action']"
 mahanati (telugu),3.6,drama,['drama']
-magical playtime with mila and morphle,3.5,"comedy,animation","['comedy', 'animation']"
+magical playtime with mila and morphle,3.5,animation,['animation']
 maggie's war,3.6,documentaries,['documentaries']
 mafia: chapter 1,3.6,comedy,['comedy']
 "made in mexico (spanish language, no subtitles)",3.5,music,['music']
@@ -1168,8 +1168,8 @@ los sonámbulos,3.5,drama,['drama']
 lords of salem,3.5,"thriller,action","['thriller', 'action']"
 loni love: america's sister,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 lone star state of mind,3.5,"comedy,drama","['comedy', 'drama']"
-lola & virginia (volume 4),3.5,"comedy,animation","['comedy', 'animation']"
-lola & virginia (volume 2),3.6,"comedy,animation","['comedy', 'animation']"
+lola & virginia (volume 4),3.5,animation,['animation']
+lola & virginia (volume 2),3.6,animation,['animation']
 loco love,3.5,"comedy,drama","['comedy', 'drama']"
 local boy,3.5,"comedy,drama","['comedy', 'drama']"
 llamageddon,3.6,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
@@ -1338,7 +1338,7 @@ jack logan,3.5,thriller,['thriller']
 jack goes home,3.6,thriller,['thriller']
 jack and jill vs. the world,3.5,"comedy,drama","['comedy', 'drama']"
 jack and jill & more classic nursery rhymes for kids - kiiyii,3.5,animation,['animation']
-izzie's way home,3.6,"comedy,animation","['comedy', 'animation']"
+izzie's way home,3.6,animation,['animation']
 itzhak,3.7,documentaries,['documentaries']
 ittymaani: made in china,3.5,"comedy,others","['comedy', 'others']"
 italy's mystery mountains,3.5,documentaries,['documentaries']
@@ -1381,7 +1381,7 @@ iddari lokam okate,3.5,"comedy,drama","['comedy', 'drama']"
 icy demons,3.6,music,['music']
 iceolation,3.6,"comedy,documentaries","['comedy', 'documentaries']"
 ice spiders,3.5,"comedy,thriller","['comedy', 'thriller']"
-ice princess lily,3.6,"comedy,animation","['comedy', 'animation']"
+ice princess lily,3.6,animation,['animation']
 ice guardians,3.5,documentaries,['documentaries']
 ice blues: a donald strachey mystery,3.5,"thriller,action,others","['thriller', 'action', 'others']"
 ice,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
@@ -1418,7 +1418,7 @@ hostile border,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 's
 horse tribe,3.5,"science fiction,documentaries,action","['science fiction', 'documentaries', 'action']"
 hope ranch,3.6,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 hope lost,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
-hooplakidz nursery rhyme time - part 2,3.5,"comedy,animation","['comedy', 'animation']"
+hooplakidz nursery rhyme time - part 2,3.5,animation,['animation']
 honeymoon limited,3.6,"comedy,drama","['comedy', 'drama']"
 honest thief,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 home sweet home,3.6,"comedy,documentaries","['comedy', 'documentaries']"
@@ -1477,7 +1477,7 @@ halston,3.4,documentaries,['documentaries']
 hairy ape,3.5,drama,['drama']
 guns don't argue,3.4,"thriller,action","['thriller', 'action']"
 gumnaami - hindi,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-gulliver's travels (edited),3.5,"comedy,animation","['comedy', 'animation']"
+gulliver's travels (edited),3.5,animation,['animation']
 gulabo sitabo (4k uhd),3.6,others,['others']
 guitar for sleep and relaxation 45 minutes,3.6,"documentaries,music","['documentaries', 'music']"
 gubbi mele brahmastra,3.4,"comedy,others","['comedy', 'others']"
@@ -1543,7 +1543,7 @@ gecko's garage vol. 1,3.5,"animation,documentaries","['animation', 'documentarie
 gecko's garage vol 2,3.5,animation,['animation']
 "gecko's garage real vehicles volume 2 (trucks, construction and large vehicles)",3.6,animation,['animation']
 "gecko's garage real vehicles volume 1 (cars, ambulance, etc)",3.5,animation,['animation']
-gecko's garage - trucks cartoon for kids,3.5,"comedy,animation","['comedy', 'animation']"
+gecko's garage - trucks cartoon for kids,3.5,animation,['animation']
 gatling gun,3.6,"science fiction,action","['science fiction', 'action']"
 gascoigne,3.5,documentaries,['documentaries']
 gary owen: breakin' out the park,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -1564,7 +1564,7 @@ galapagos: realm of giant sharks,3.5,documentaries,['documentaries']
 gajakesari,3.5,"comedy,drama","['comedy', 'drama']"
 g.i. blues,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 fury of the fist and the golden fleece,3.5,comedy,['comedy']
-funny lesson learn colors with cows and balls for kids colours with animals,3.6,"comedy,animation","['comedy', 'animation']"
+funny lesson learn colors with cows and balls for kids colours with animals,3.6,animation,['animation']
 funny animals song and more kids songs - little baby bum,3.6,animation,['animation']
 fun and games with little baby bus,3.5,animation,['animation']
 frontier pony express,3.6,"science fiction,documentaries,action","['science fiction', 'documentaries', 'action']"
@@ -1613,7 +1613,7 @@ fever pitch,3.5,"comedy,drama","['comedy', 'drama']"
 feud of the west,3.5,"science fiction,action","['science fiction', 'action']"
 fbi's war on black america,3.5,documentaries,['documentaries']
 favourite sons,3.5,music,['music']
-favorite nursery rhymes,3.5,"comedy,animation","['comedy', 'animation']"
+favorite nursery rhymes,3.5,animation,['animation']
 fathers & daughters,3.5,drama,['drama']
 fat city,3.6,"drama,documentaries","['drama', 'documentaries']"
 faster,3.5,"comedy,documentaries","['comedy', 'documentaries']"
@@ -1650,8 +1650,8 @@ erik griffin: amerikan warrior,3.5,"comedy,documentaries,others","['comedy', 'do
 equal means equal,3.6,documentaries,['documentaries']
 ephraim's rescue,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 enchantment,3.5,"comedy,drama","['comedy', 'drama']"
-enchantimals: finding home,3.5,"comedy,animation","['comedy', 'animation']"
-enchantimals spring into harvest hills,3.5,"comedy,animation","['comedy', 'animation']"
+enchantimals: finding home,3.5,animation,['animation']
+enchantimals spring into harvest hills,3.5,animation,['animation']
 enai noki paayum thota,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 emma's chance,3.5,"drama,documentaries","['drama', 'documentaries']"
 emily bronte's wuthering heights,3.5,drama,['drama']
@@ -1730,7 +1730,7 @@ dino king,3.5,"comedy,animation","['comedy', 'animation']"
 dino dana the movie,3.5,animation,['animation']
 dinner,3.5,"comedy,drama","['comedy', 'drama']"
 digging to china,3.5,"comedy,drama","['comedy', 'drama']"
-diggers on site - learning diggers names and sounds,3.5,"comedy,animation","['comedy', 'animation']"
+diggers on site - learning diggers names and sounds,3.5,animation,['animation']
 "dick winters: ""hang tough""",3.6,documentaries,['documentaries']
 diani & devine meet the apocalypse,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 diana: the royal truth,3.6,documentaries,['documentaries']
@@ -1841,13 +1841,13 @@ city of ghosts,3.6,documentaries,['documentaries']
 citizen k,3.6,documentaries,['documentaries']
 circumstances 2,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 cider with rosie,3.4,drama,['drama']
-christmas time with mila and morphle,3.5,"comedy,animation","['comedy', 'animation']"
+christmas time with mila and morphle,3.5,animation,['animation']
 christmas recipe for romance,3.5,"comedy,drama","['comedy', 'drama']"
 christmas on the bayou,3.5,"comedy,drama","['comedy', 'drama']"
 christmas in mississippi,3.5,"comedy,drama","['comedy', 'drama']"
-christmas finger family and more,3.5,"comedy,animation","['comedy', 'animation']"
+christmas finger family and more,3.5,animation,['animation']
 christmas coupon,3.5,comedy,['comedy']
-christmas carols with elly and eva,3.6,"comedy,animation","['comedy', 'animation']"
+christmas carols with elly and eva,3.6,animation,['animation']
 christine jorgensen story,3.4,drama,['drama']
 christian finnegan: the fun part,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 chris porter: ugly and angry,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -1881,7 +1881,7 @@ catch-22,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 catch hell,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 casey's shadow,3.5,"comedy,drama","['comedy', 'drama']"
 caryl of the mountains,3.5,drama,['drama']
-cartoon classics - vol. 2: 25 favorite cartoons - 3 hours,3.6,"comedy,animation","['comedy', 'animation']"
+cartoon classics - vol. 2: 25 favorite cartoons - 3 hours,3.6,animation,['animation']
 carriers,3.5,drama,['drama']
 carolina skeletons,3.5,"comedy,drama","['comedy', 'drama']"
 carolina low,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
@@ -1894,7 +1894,7 @@ candy,3.5,"comedy,drama","['comedy', 'drama']"
 can't stand losing you: surviving the police,3.5,documentaries,['documentaries']
 camp cool kids,3.5,animation,['animation']
 cameron esposito: marriage material,3.4,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
-camelot,3.5,"comedy,animation","['comedy', 'animation']"
+camelot,3.5,animation,['animation']
 call her ganda,3.5,"documentaries,others","['documentaries', 'others']"
 cafe society,3.5,"comedy,drama","['comedy', 'drama']"
 cabin 28,3.6,"thriller,action","['thriller', 'action']"
@@ -1943,11 +1943,11 @@ boss,3.5,"comedy,drama","['comedy', 'drama']"
 bornoporichoy,3.5,"drama,others","['drama', 'others']"
 born too white,3.6,documentaries,['documentaries']
 born to win,3.5,drama,['drama']
-boonie bears: blast into the past,3.6,"comedy,animation","['comedy', 'animation']"
+boonie bears: blast into the past,3.6,animation,['animation']
 bold caballero (1936),3.6,"science fiction,action","['science fiction', 'action']"
 bodysnatchers of new york,3.5,documentaries,['documentaries']
 bobby slayton: born to be bobby,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
-bob the train - non stop,3.5,"comedy,animation","['comedy', 'animation']"
+bob the train - non stop,3.5,animation,['animation']
 bob the drag queen: suspiciously large woman,3.5,"documentaries,others","['documentaries', 'others']"
 bob saget: zero to sixty,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 bob saget: that's what i'm talking about,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -2044,7 +2044,7 @@ bashful bachelor,3.5,comedy,['comedy']
 "barry brewer: chicago, i'm home",3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 barista,3.5,documentaries,['documentaries']
 barefoot boy (1938),3.6,"comedy,animation,thriller,action","['comedy', 'animation', 'thriller', 'action']"
-barbie: dreamtopia special (english),3.5,"comedy,animation","['comedy', 'animation']"
+barbie: dreamtopia special (english),3.5,animation,['animation']
 bang the drum slowly,3.5,drama,['drama']
 bandobast,3.5,"comedy,others","['comedy', 'others']"
 bail out,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
@@ -2062,7 +2062,7 @@ back page,3.6,"drama,documentaries","['drama', 'documentaries']"
 babysitters beware,3.6,"comedy,animation","['comedy', 'animation']"
 babybus - nursery rhymes & kids songs (volume 3),3.5,animation,['animation']
 baby shark & more kids songs - little baby bum,3.6,animation,['animation']
-baby pirates - the golden statue,3.6,"comedy,animation","['comedy', 'animation']"
+baby pirates - the golden statue,3.6,animation,['animation']
 baby cat,3.5,comedy,['comedy']
 babru,3.6,"thriller,action","['thriller', 'action']"
 azeem banatwalla: cometh the hour,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -2081,15 +2081,15 @@ ashley,3.5,drama,['drama']
 ashish shakya - life is good,3.5,comedy,['comedy']
 asha jaoar majhe (non-english dialog),3.5,drama,['drama']
 aruvi,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
-arpo the robot for all kids - supermarket adventures & more funny kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - save the baby & more robot kids cartoon,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - peekabooboo & more cartoons for kids,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - kung fu time & more cartoons for kids,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - germ war & more funny kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - burglary alert & more robot cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - boy in bubble & more robot cartoons for kids,3.4,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - arpo at the zoo & more robot kids cartoons,3.6,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - alien invasion & more robot kids cartoons,3.6,"comedy,animation","['comedy', 'animation']"
+arpo the robot for all kids - supermarket adventures & more funny kids cartoons,3.5,animation,['animation']
+arpo the robot for all kids - save the baby & more robot kids cartoon,3.5,animation,['animation']
+arpo the robot for all kids - peekabooboo & more cartoons for kids,3.5,animation,['animation']
+arpo the robot for all kids - kung fu time & more cartoons for kids,3.5,animation,['animation']
+arpo the robot for all kids - germ war & more funny kids cartoons,3.5,animation,['animation']
+arpo the robot for all kids - burglary alert & more robot cartoons,3.5,animation,['animation']
+arpo the robot for all kids - boy in bubble & more robot cartoons for kids,3.4,animation,['animation']
+arpo the robot for all kids - arpo at the zoo & more robot kids cartoons,3.6,animation,['animation']
+arpo the robot for all kids - alien invasion & more robot kids cartoons,3.6,animation,['animation']
 around the world in one hour,3.6,documentaries,['documentaries']
 around the world in 90 minutes,3.6,documentaries,['documentaries']
 around the world in 30 minutes,3.5,documentaries,['documentaries']
@@ -2140,9 +2140,9 @@ american experience: rachel carson,3.6,documentaries,['documentaries']
 american experience: butch cassidy and the sundance kid,3.6,documentaries,['documentaries']
 american animals,3.5,"comedy,drama","['comedy', 'drama']"
 ambili,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
-"amazon originals presents: shawn colvin, the starlighter",3.6,"comedy,animation,music","['comedy', 'animation', 'music']"
-"amazon music presents: the l, i will find you no matter what",3.6,"comedy,animation,music","['comedy', 'animation', 'music']"
-amazon jack,3.5,"comedy,animation","['comedy', 'animation']"
+"amazon originals presents: shawn colvin, the starlighter",3.6,"animation,music","['animation', 'music']"
+"amazon music presents: the l, i will find you no matter what",3.6,"animation,music","['animation', 'music']"
+amazon jack,3.5,animation,['animation']
 amateur night,3.6,comedy,['comedy']
 amar akbar anthony,3.5,"drama,others","['drama', 'others']"
 amal,3.5,drama,['drama']
@@ -2168,7 +2168,7 @@ al jackson: baby steps in a yellow tuxedo,3.6,"comedy,documentaries,others","['c
 aida's secrets,3.5,"thriller,documentaries,action","['thriller', 'documentaries', 'action']"
 agent sai srinivasa athreya,3.6,"drama,others","['drama', 'others']"
 agent sai (hindi),3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-agent fox,3.6,"comedy,animation","['comedy', 'animation']"
+agent fox,3.6,animation,['animation']
 after school,3.5,"comedy,drama","['comedy', 'drama']"
 adventures of kii & yii - little baby bum,3.6,animation,['animation']
 adimurai,3.6,"comedy,drama","['comedy', 'drama']"
@@ -2181,7 +2181,7 @@ ablaze,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'acti
 abilene town,3.5,"science fiction,action","['science fiction', 'action']"
 aberdeen city,3.6,music,['music']
 abducted,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-abc ice cream cones with the luvbugz  learn the alphabet,3.5,"comedy,animation","['comedy', 'animation']"
+abc ice cream cones with the luvbugz  learn the alphabet,3.5,animation,['animation']
 aakaasam nee haddhu ra (telugu),3.5,"comedy,drama","['comedy', 'drama']"
 aadar malik: stand up the musical,3.5,"documentaries,others","['documentaries', 'others']"
 aadai,3.6,"thriller,action","['thriller', 'action']"
@@ -2190,9 +2190,9 @@ a year in champagne,3.6,documentaries,['documentaries']
 a year in burgundy,3.6,documentaries,['documentaries']
 a world away,3.6,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 a woman scorned: the betty broderick story: part i,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-a turtle's tale 2: sammy's escape from paradise,3.6,"comedy,animation","['comedy', 'animation']"
+a turtle's tale 2: sammy's escape from paradise,3.6,animation,['animation']
 a turma do sextou - a tv ideal,3.5,"comedy,animation","['comedy', 'animation']"
-"a turma do sextou - a princesa , o sapo e a escolinha",3.5,"comedy,animation","['comedy', 'animation']"
+"a turma do sextou - a princesa , o sapo e a escolinha",3.5,animation,['animation']
 a trip under the sea,3.5,documentaries,['documentaries']
 a trip through the world's greatest cities,3.6,documentaries,['documentaries']
 a trip through lake tahoe,3.6,documentaries,['documentaries']
@@ -2223,8 +2223,8 @@ a haunting on dice road 2: town of the dead,3.5,"drama,thriller","['drama', 'thr
 a haunting on brockway street,3.6,documentaries,['documentaries']
 a girl of the limberlost,3.5,"drama,animation","['drama', 'animation']"
 a girl like her,3.4,drama,['drama']
-a flying princess and a secret island (subbed),3.5,"comedy,animation","['comedy', 'animation']"
-a flying princess and a secret island (dubbed),3.5,"comedy,animation","['comedy', 'animation']"
+a flying princess and a secret island (subbed),3.5,animation,['animation']
+a flying princess and a secret island (dubbed),3.5,animation,['animation']
 a fine step,3.6,drama,['drama']
 a father's son,3.6,"drama,thriller","['drama', 'thriller']"
 a farewell to arms,3.5,"drama,documentaries","['drama', 'documentaries']"
@@ -2352,7 +2352,7 @@ two hours of calming sights and sounds,3.5,documentaries,['documentaries']
 trial by media,3.5,drama,['drama']
 trail to san antone,3.5,"science fiction,action","['science fiction', 'action']"
 the turn out,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-the stolen princess,3.6,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+the stolen princess,3.6,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 the real inglorious bastards,3.5,documentaries,['documentaries']
 the prince and me,3.6,comedy,['comedy']
 the norse: an arctic mystery,3.5,documentaries,['documentaries']
@@ -2370,7 +2370,7 @@ the adventurer: the curse of the midas box,3.6,"comedy,drama,science fiction,act
 supertornado: anatomy of a megadisaster,3.6,documentaries,['documentaries']
 spun,3.6,"comedy,drama","['comedy', 'drama']"
 space truckers,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-snow queen: fire and ice,3.6,"comedy,animation","['comedy', 'animation']"
+snow queen: fire and ice,3.6,animation,['animation']
 snap decision,3.6,drama,['drama']
 smiley face killers,3.6,"thriller,action","['thriller', 'action']"
 she's in portland,3.6,"comedy,drama","['comedy', 'drama']"
@@ -2414,7 +2414,7 @@ conference call,3.5,comedy,['comedy']
 code of thieves,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 clockwatchers,3.5,"comedy,drama","['comedy', 'drama']"
 catching faith,3.5,drama,['drama']
-blippi and friends: halloween special,3.6,"comedy,animation","['comedy', 'animation']"
+blippi and friends: halloween special,3.6,animation,['animation']
 big top pee-wee,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 barefoot in the park,3.5,comedy,['comedy']
 a good man,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
@@ -2425,7 +2425,7 @@ v (hindi),3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'a
 udaan,3.6,"comedy,drama","['comedy', 'drama']"
 todd barry: the crowd work tour,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 to end all wars: director's cut,3.6,"comedy,drama,music","['comedy', 'drama', 'music']"
-thomas & friends: big world! big adventures! - the movie (us),3.5,"comedy,animation","['comedy', 'animation']"
+thomas & friends: big world! big adventures! - the movie (us),3.5,animation,['animation']
 the wailing,3.6,"thriller,action","['thriller', 'action']"
 the sun king is dead,3.6,documentaries,['documentaries']
 the haunting of borley manor,3.5,"thriller,action","['thriller', 'action']"
@@ -2434,7 +2434,7 @@ the gathering swarms,3.5,documentaries,['documentaries']
 the devil to pay!,3.5,comedy,['comedy']
 the beast,3.6,"comedy,drama","['comedy', 'drama']"
 sworn to justice,3.4,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-steve and maggie - spooktacular special (vol. 14),3.5,"comedy,animation","['comedy', 'animation']"
+steve and maggie - spooktacular special (vol. 14),3.5,animation,['animation']
 songwriter,3.5,"drama,music","['drama', 'music']"
 reach for me,3.6,drama,['drama']
 one remains,3.5,"thriller,action","['thriller', 'action']"
@@ -2462,7 +2462,7 @@ april 28th em jarigindi,3.4,"thriller,action","['thriller', 'action']"
 anbirkiniyal,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 american experience: the battle of chosin,3.5,documentaries,['documentaries']
 agathe cléry,3.5,comedy,['comedy']
-a turtle's tale: sammy's adventures,3.5,"comedy,animation","['comedy', 'animation']"
+a turtle's tale: sammy's adventures,3.5,animation,['animation']
 a class apart,3.5,documentaries,['documentaries']
 yoga for restful sleep with dr. daniel nightingale,3.6,documentaries,['documentaries']
 wuthering heights,3.6,"comedy,drama","['comedy', 'drama']"
@@ -2482,8 +2482,8 @@ transylvania 6-5000,3.5,"comedy,thriller","['comedy', 'thriller']"
 tranquil lake sounds for sleep 8 hours,3.6,documentaries,['documentaries']
 tom papa: human mule,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 tom clancy's the division: agent origins,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
-"thomas & friends: the great race (us english, brazilian portuguese, latin america spanish)",3.3,"comedy,animation","['comedy', 'animation']"
-"thomas & friends: journey beyond sodor (us english, brazilian portuguese, latin america spanish)",3.6,"comedy,animation","['comedy', 'animation']"
+"thomas & friends: the great race (us english, brazilian portuguese, latin america spanish)",3.3,animation,['animation']
+"thomas & friends: journey beyond sodor (us english, brazilian portuguese, latin america spanish)",3.6,animation,['animation']
 they call us monsters,3.5,"drama,documentaries","['drama', 'documentaries']"
 the velocipastor,3.5,thriller,['thriller']
 the unnamable,3.6,thriller,['thriller']
@@ -2494,10 +2494,10 @@ the pride of the yankees,3.5,"comedy,drama","['comedy', 'drama']"
 the over-the-hill gang,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the outdoorsman,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 the night watch,3.5,"comedy,drama","['comedy', 'drama']"
-the new adventures of peter rabbit,3.6,"comedy,animation","['comedy', 'animation']"
+the new adventures of peter rabbit,3.6,animation,['animation']
 the mountain minor,3.6,"drama,animation,documentaries,others","['drama', 'animation', 'documentaries', 'others']"
 the man who fell to earth,3.6,"drama,science fiction,action","['drama', 'science fiction', 'action']"
-the lion of judah,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+the lion of judah,3.5,"animation,documentaries","['animation', 'documentaries']"
 the lies we tell but the secrets we keep part 4,3.6,"drama,thriller,action,others","['drama', 'thriller', 'action', 'others']"
 the last black man in san francisco,3.5,drama,['drama']
 the island on bird street,3.5,drama,['drama']
@@ -2510,10 +2510,10 @@ the diary of anne frank,3.6,"comedy,drama","['comedy', 'drama']"
 the connecticut kid,3.6,"comedy,animation","['comedy', 'animation']"
 the cat in the hat knows a lot about space!,3.6,animation,['animation']
 the cat in the hat knows a lot about halloween!,3.5,animation,['animation']
-the cat in the hat knows a lot about christmas,3.5,"comedy,animation","['comedy', 'animation']"
-the busy little engine,3.5,"comedy,animation","['comedy', 'animation']"
+the cat in the hat knows a lot about christmas,3.5,animation,['animation']
+the busy little engine,3.5,animation,['animation']
 the amazing mr. blunden,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-the adventures of petey and friends,3.7,"comedy,animation","['comedy', 'animation']"
+the adventures of petey and friends,3.7,animation,['animation']
 thank god it's friday,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 thaanaa serndha koottam,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 "tammy pescatelli's ""way after school special""",3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -2529,7 +2529,7 @@ srinivasa kalyanam,3.6,"drama,others","['drama', 'others']"
 spooky house,3.5,"comedy,animation","['comedy', 'animation']"
 sophie and the rising sun,3.6,drama,['drama']
 soorarai pottru (tamil),3.5,"comedy,drama","['comedy', 'drama']"
-sonic christmas blast,3.6,"comedy,animation","['comedy', 'animation']"
+sonic christmas blast,3.6,animation,['animation']
 snow white,3.6,"drama,animation,documentaries,others","['drama', 'animation', 'documentaries', 'others']"
 smitty,3.6,drama,['drama']
 sing and rhyme with mother goose club,3.5,animation,['animation']
@@ -2537,7 +2537,7 @@ silent trigger,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller
 shubh mangal zyada saavdhan,3.5,"comedy,others","['comedy', 'others']"
 sharkwater extinction,3.5,"documentaries,others","['documentaries', 'others']"
 sharknado 3: oh hell no!,3.6,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
-sharkbait,3.5,"comedy,animation","['comedy', 'animation']"
+sharkbait,3.5,animation,['animation']
 see you soon,3.5,drama,['drama']
 second chances,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 satyameva jayate,3.5,"comedy,science fiction,action,others","['comedy', 'science fiction', 'action', 'others']"
@@ -2590,7 +2590,7 @@ low tide,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others'
 love stinks,3.6,comedy,['comedy']
 lost in the sun,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 little red wagon,3.5,"drama,animation","['drama', 'animation']"
-little nemo: adventures in slumberland,3.6,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+little nemo: adventures in slumberland,3.6,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 lisa lampanelli: back to the drawing board,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 left behind: world at war,3.5,"comedy,drama,music","['comedy', 'drama', 'music']"
 leave it to beavers,3.5,documentaries,['documentaries']
@@ -2600,7 +2600,7 @@ kim mcvicar: please notice me,3.5,"comedy,documentaries,others","['comedy', 'doc
 khandani shafakhana,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 kevin hart presents: lil rel howery - relevent,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 k.g.f: chapter 1 (hindi),3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
-jungle shuffle,3.5,"comedy,animation","['comedy', 'animation']"
+jungle shuffle,3.5,animation,['animation']
 joey coco diaz: sociably unacceptable,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 jim breuer: and laughter for all,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 jeff dunham: arguing with myself,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -2651,7 +2651,7 @@ durgamati - the myth,3.5,"thriller,action","['thriller', 'action']"
 driving licence,3.5,drama,['drama']
 doug stanhope: comedians' comedian's comedians,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 deadlocked,3.6,thriller,['thriller']
-dead space: aftermath,3.6,"comedy,animation,thriller,action","['comedy', 'animation', 'thriller', 'action']"
+dead space: aftermath,3.6,"animation,thriller,action","['animation', 'thriller', 'action']"
 dead end,3.6,drama,['drama']
 day of the falcon,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 dabangg 3,3.5,"comedy,drama","['comedy', 'drama']"
@@ -2723,7 +2723,7 @@ pablo francisco: ouch! live from san jose!,3.5,"comedy,documentaries,others","['
 olympia,3.6,"comedy,drama","['comedy', 'drama']"
 never too late,3.5,"comedy,drama","['comedy', 'drama']"
 my dad's christmas date,3.5,comedy,['comedy']
-morphle - my magical storytime & more cartoons for kids,3.6,"comedy,animation","['comedy', 'animation']"
+morphle - my magical storytime & more cartoons for kids,3.6,animation,['animation']
 midnight sky & ocean sounds 4 hours,3.6,documentaries,['documentaries']
 michael ian black: noted expert,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 meet my valentine,3.5,drama,['drama']
@@ -2733,12 +2733,12 @@ jonestown: paradise lost,3.5,"drama,thriller,documentaries","['drama', 'thriller
 into his arms,3.5,drama,['drama']
 house hunting,3.5,"thriller,action","['thriller', 'action']"
 honor amongst men,3.5,drama,['drama']
-gecko's garage - construction videos for kids,3.5,"comedy,animation","['comedy', 'animation']"
+gecko's garage - construction videos for kids,3.5,animation,['animation']
 fist of fury,3.5,comedy,['comedy']
 fanney khan,3.6,"comedy,drama,documentaries,others","['comedy', 'drama', 'documentaries', 'others']"
 dark alibi - sidney toler as charlie chan,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 chhalaang (4k uhd),3.6,"comedy,drama","['comedy', 'drama']"
-"amy lee, dream too much",3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+"amy lee, dream too much",3.5,"animation,music","['animation', 'music']"
 almost an angel,3.5,"comedy,drama,music","['comedy', 'drama', 'music']"
 x,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 wives under suspicion,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -2763,12 +2763,12 @@ seberg,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 rudderless,3.5,"comedy,drama","['comedy', 'drama']"
 romeo vs juliet,3.5,"comedy,drama","['comedy', 'drama']"
 red metal: the copper country strike of 1913,3.6,documentaries,['documentaries']
-pinkfong 50 best hits: baby shark and more,3.6,"comedy,animation","['comedy', 'animation']"
+pinkfong 50 best hits: baby shark and more,3.6,animation,['animation']
 "out of mind, out of sight",3.5,documentaries,['documentaries']
 one hour of himalayan singing bowls,3.5,documentaries,['documentaries']
 nevada city,3.4,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 nemesis,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-morphle - my magic pet shop & more animal cartoons,3.4,"comedy,animation","['comedy', 'animation']"
+morphle - my magic pet shop & more animal cartoons,3.4,animation,['animation']
 mickey,3.6,comedy,['comedy']
 meltdown,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 marc maron: thinky pain,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -2778,7 +2778,7 @@ killer sofa,3.6,"comedy,thriller","['comedy', 'thriller']"
 joji (4k uhd),3.5,drama,['drama']
 joji,3.5,drama,['drama']
 jfk's women: the scandals revealed,3.6,"thriller,documentaries,action","['thriller', 'documentaries', 'action']"
-jessie baylin - strawberry wind (a short film) {amazon original},3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+jessie baylin - strawberry wind (a short film) {amazon original},3.5,"animation,music","['animation', 'music']"
 jeff dunham: unhinged in hollywood,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 humpty dumpty & more kids songs - super simple songs,3.6,animation,['animation']
 howl,3.5,"comedy,drama,science fiction,thriller,action","['comedy', 'drama', 'science fiction', 'thriller', 'action']"
@@ -2830,7 +2830,7 @@ he watches over me,3.5,"drama,documentaries","['drama', 'documentaries']"
 gulabo sitabo,3.6,others,['others']
 grimm love,3.5,"drama,thriller","['drama', 'thriller']"
 goldstone,3.6,"comedy,drama","['comedy', 'drama']"
-fun animal songs for kids by hooplakidz,3.4,"comedy,animation","['comedy', 'animation']"
+fun animal songs for kids by hooplakidz,3.4,animation,['animation']
 escape plan: the extractors aka escape plan 3,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 "eriko, pretended",3.4,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 dummy,3.5,drama,['drama']
@@ -2866,7 +2866,7 @@ where the red fern grows,3.6,animation,['animation']
 tongi tongi chudamaku chandamama,3.6,"comedy,drama","['comedy', 'drama']"
 ties that bind,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 they come to america: the politics of immigration,3.5,documentaries,['documentaries']
-the yummy gummy search for santa,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+the yummy gummy search for santa,3.5,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 the star packer,3.5,"science fiction,action","['science fiction', 'action']"
 the resident,3.5,"thriller,action","['thriller', 'action']"
 the majestic life of queen elizabeth ii,3.6,documentaries,['documentaries']
@@ -2894,19 +2894,19 @@ my pet dinosaur,3.5,"comedy,science fiction,animation,action","['comedy', 'scien
 my 3 boys,3.5,"drama,documentaries,music","['drama', 'documentaries', 'music']"
 milk money,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 mary higgins clark's: you belong to me,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
-lea & pop - episodes & kids songs,3.5,"comedy,animation","['comedy', 'animation']"
+lea & pop - episodes & kids songs,3.5,animation,['animation']
 kickin' it old skool,3.5,comedy,['comedy']
 jamie kennedy: uncomfortable,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 in remembrance of martin,3.5,documentaries,['documentaries']
 hello charlie,3.5,comedy,['comedy']
 harriet tubman - they called her moses,3.5,documentaries,['documentaries']
-harlock: space pirate,3.4,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+harlock: space pirate,3.4,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 grateful dawg,3.6,documentaries,['documentaries']
 grandma's house,3.5,"drama,music","['drama', 'music']"
 george carlin: life is worth losing,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 frances,3.5,drama,['drama']
 first we take brooklyn,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-enchantimals secrets of snowy valley,3.5,"comedy,animation","['comedy', 'animation']"
+enchantimals secrets of snowy valley,3.5,animation,['animation']
 eden,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 double mommy,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 divine beaches,3.6,documentaries,['documentaries']
@@ -2943,7 +2943,7 @@ time,3.5,documentaries,['documentaries']
 the music of silence,3.5,"drama,documentaries,others","['drama', 'documentaries', 'others']"
 the horse dancer,3.6,drama,['drama']
 telephone operator,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-technotise: edit & i,3.5,"comedy,drama,science fiction,animation,action","['comedy', 'drama', 'science fiction', 'animation', 'action']"
+technotise: edit & i,3.5,"drama,science fiction,animation,action","['drama', 'science fiction', 'animation', 'action']"
 sumukhi suresh - don’t tell amma,3.6,comedy,['comedy']
 status update,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 nemr: no bombing in beirut,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -3060,12 +3060,12 @@ the pollinators,3.6,documentaries,['documentaries']
 the loved ones,3.6,"thriller,action","['thriller', 'action']"
 the fanatic,3.6,"thriller,action","['thriller', 'action']"
 stinger,3.5,comedy,['comedy']
-siva-ii,3.6,"comedy,animation","['comedy', 'animation']"
+siva-ii,3.6,animation,['animation']
 samantha hale: only happy when it's raining men,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 redhead,3.5,"comedy,drama","['comedy', 'drama']"
 razorteeth,3.5,thriller,['thriller']
-original kids song by hooplakidz,3.4,"comedy,animation","['comedy', 'animation']"
-old macdonald had a farm & more kids songs - super simple songs,3.5,"comedy,animation","['comedy', 'animation']"
+original kids song by hooplakidz,3.4,animation,['animation']
+old macdonald had a farm & more kids songs - super simple songs,3.5,animation,['animation']
 never grow old,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 little annie rooney,3.5,"comedy,drama","['comedy', 'drama']"
 knights of newgate,3.6,comedy,['comedy']
@@ -3083,7 +3083,7 @@ finding jesus,3.5,"animation,documentaries,music","['animation', 'documentaries'
 fasten your seatbelt,3.5,"comedy,drama","['comedy', 'drama']"
 fanchon the cricket,3.5,drama,['drama']
 escape plan: the extractors (4k uhd),3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-clifford's really big movie,3.5,"comedy,animation","['comedy', 'animation']"
+clifford's really big movie,3.5,animation,['animation']
 camp arrowhead,3.5,"animation,documentaries","['animation', 'documentaries']"
 calls,3.5,"thriller,action","['thriller', 'action']"
 bright hill road,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -3110,12 +3110,12 @@ the pleasure garden,3.5,"comedy,drama","['comedy', 'drama']"
 the greatest story ever told - an all-star cast in this biblical epic,3.5,"drama,documentaries","['drama', 'documentaries']"
 sultan,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 sounds of silence,3.5,"drama,thriller","['drama', 'thriller']"
-siva-i,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+siva-i,3.6,"drama,animation","['drama', 'animation']"
 prayanikudu,3.4,"comedy,drama","['comedy', 'drama']"
 "power of the resurrection - christ's crucifixion, resurrection, & ascension",3.5,"drama,documentaries","['drama', 'documentaries']"
-"pinkfong! super wheels (cars, trucks, buses and more)",3.5,"comedy,animation","['comedy', 'animation']"
-pinkfong! baby shark sing-along,3.5,"comedy,animation","['comedy', 'animation']"
-pinkfong! baby shark & more animal songs,3.5,"comedy,animation","['comedy', 'animation']"
+"pinkfong! super wheels (cars, trucks, buses and more)",3.5,animation,['animation']
+pinkfong! baby shark sing-along,3.5,animation,['animation']
+pinkfong! baby shark & more animal songs,3.5,animation,['animation']
 overheard 3,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 overheard 2,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 nocturne,3.6,"thriller,action","['thriller', 'action']"
@@ -3135,7 +3135,7 @@ i beheld his glory - celebrating the inspiring events of jesus' last days,3.5,"d
 i basilischi,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 honeymoon with mom,3.6,comedy,['comedy']
 "goodbye, butterfly",3.5,"thriller,action","['thriller', 'action']"
-five little ducks nursery rhymes for babies in indonesian,3.6,"comedy,animation,music","['comedy', 'animation', 'music']"
+five little ducks nursery rhymes for babies in indonesian,3.6,"animation,music","['animation', 'music']"
 dosth mera dosth,3.5,"comedy,drama","['comedy', 'drama']"
 crshd,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 coimbatore mappillai,3.5,"comedy,drama","['comedy', 'drama']"
@@ -3167,7 +3167,7 @@ ami sudhu cheyechhi tomay,3.6,"comedy,drama","['comedy', 'drama']"
 yedu chepala kadha,3.5,"comedy,thriller","['comedy', 'thriller']"
 time of death,3.6,"thriller,action","['thriller', 'action']"
 the surface,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-the reef 2,3.5,"comedy,animation","['comedy', 'animation']"
+the reef 2,3.5,animation,['animation']
 the making of america's most dangerous city,3.6,documentaries,['documentaries']
 the haunting of barney palmer,3.5,"drama,science fiction,thriller,action","['drama', 'science fiction', 'thriller', 'action']"
 the canterville ghost,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
@@ -3184,7 +3184,7 @@ little kingdom,3.5,drama,['drama']
 jade,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 hollywood north,3.5,comedy,['comedy']
 he's mine not yours,3.4,"comedy,drama","['comedy', 'drama']"
-five little babies children's songs in indonesian - bob the train,3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+five little babies children's songs in indonesian - bob the train,3.5,"animation,music","['animation', 'music']"
 everybody changes,3.6,"drama,others","['drama', 'others']"
 dosar,3.6,"comedy,drama","['comedy', 'drama']"
 discarded lovers,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -3230,7 +3230,7 @@ anu menon: wonder menon,3.5,"documentaries,others","['documentaries', 'others']"
 a date with murder,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 raabta,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 yo,3.6,others,['others']
-the pilgrim's progress,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+the pilgrim's progress,3.6,"drama,animation","['drama', 'animation']"
 the maiden and the wolves,3.6,others,['others']
 the klansman,3.5,drama,['drama']
 taxi blues,3.6,others,['others']
@@ -3267,7 +3267,7 @@ my month with mrs potter,3.6,drama,['drama']
 learning & early education for kids,3.5,animation,['animation']
 kylie minogue: showtime,3.5,documentaries,['documentaries']
 error in judgement,3.5,"thriller,action","['thriller', 'action']"
-cut the rope: om nom stories - holiday specials,3.6,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - holiday specials,3.6,animation,['animation']
 address unknown,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 10.0 earthquake,3.6,"science fiction,action","['science fiction', 'action']"
 wonder boy for president,3.5,drama,['drama']
@@ -3294,12 +3294,12 @@ relaxing beach campfire 8 hours,3.6,documentaries,['documentaries']
 ramanaa,3.5,"comedy,drama","['comedy', 'drama']"
 raja hindustani,3.5,"comedy,drama","['comedy', 'drama']"
 raccoon valley,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-pinkfong! if sharks are happy,3.5,"comedy,animation","['comedy', 'animation']"
+pinkfong! if sharks are happy,3.5,animation,['animation']
 phenix,3.5,drama,['drama']
 office air,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 naz & maalik,3.5,"comedy,drama,documentaries,others","['comedy', 'drama', 'documentaries', 'others']"
 most wanted,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
-morphle - adventures of mila and morphle,3.6,"comedy,animation","['comedy', 'animation']"
+morphle - adventures of mila and morphle,3.6,animation,['animation']
 monchuri,3.5,comedy,['comedy']
 mitzi... roarin' in the 20s,3.6,"documentaries,others","['documentaries', 'others']"
 long lost son,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -3379,7 +3379,7 @@ tom segura: completely normal,3.5,"comedy,documentaries,others","['comedy', 'doc
 the phantom,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the cry of the owl,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 survive the night,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-steve and maggie - haunted halloween special (vol. 4),3.5,"comedy,animation","['comedy', 'animation']"
+steve and maggie - haunted halloween special (vol. 4),3.5,animation,['animation']
 skin,3.5,drama,['drama']
 sherlock holmes: the sign of four,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 ratnagiri,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -3547,7 +3547,7 @@ frank & fearless,3.5,comedy,['comedy']
 firefly,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 extreme raheem,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 doors open,3.5,drama,['drama']
-cut the rope - spot the difference 2,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+cut the rope - spot the difference 2,3.5,"animation,documentaries","['animation', 'documentaries']"
 creepshow 2,3.5,thriller,['thriller']
 contract lovers,3.5,"comedy,drama","['comedy', 'drama']"
 cocomelon and friends holiday special,3.6,animation,['animation']
@@ -3606,7 +3606,7 @@ number one of the secret service,3.5,"science fiction,action","['science fiction
 nepotism,3.5,drama,['drama']
 mitzi gaynor (2nd special 1969),3.6,"documentaries,others,music","['documentaries', 'others', 'music']"
 loyal opposition,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
-little miss muffet,3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+little miss muffet,3.5,"animation,music","['animation', 'music']"
 john denver - rocky mountain high live in japan 1981,3.6,music,['music']
 i am fear,3.5,"thriller,action","['thriller', 'action']"
 hunt vs lauda: f1's greatest racing rivals,3.5,documentaries,['documentaries']
@@ -3615,7 +3615,7 @@ give,3.6,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 ghar pe bataao,3.6,"comedy,drama","['comedy', 'drama']"
 fiddler: a miracle of miracles,3.5,documentaries,['documentaries']
 eternity,3.5,"comedy,drama","['comedy', 'drama']"
-cut the rope - om nom stories video blog,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+cut the rope - om nom stories video blog,3.5,"animation,documentaries","['animation', 'documentaries']"
 ceiling fan for sleep 9 hours,3.6,documentaries,['documentaries']
 captain rana pratap,3.5,"comedy,drama","['comedy', 'drama']"
 blowfly park,3.5,"thriller,documentaries,action,others","['thriller', 'documentaries', 'action', 'others']"
@@ -3641,7 +3641,7 @@ good grief it's friday,3.6,"drama,thriller,action","['drama', 'thriller', 'actio
 golmaal,3.5,comedy,['comedy']
 garden of eden,3.6,"drama,animation,documentaries","['drama', 'animation', 'documentaries']"
 dream boy,3.6,"comedy,drama","['comedy', 'drama']"
-cut the rope: om nom stories - challenging games,3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - challenging games,3.5,animation,['animation']
 chhoti bahu,3.5,"drama,animation","['drama', 'animation']"
 chelli kosam,3.6,"drama,animation","['drama', 'animation']"
 catching up,3.6,"comedy,drama","['comedy', 'drama']"
@@ -3654,9 +3654,9 @@ atma vasikaranam,3.6,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
 aparajito,3.6,drama,['drama']
 and there were 4,3.6,"comedy,drama","['comedy', 'drama']"
 waiting for the sea,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-toys storage 2,3.5,"comedy,animation","['comedy', 'animation']"
+toys storage 2,3.5,animation,['animation']
 tomorrow's star,3.5,"drama,documentaries,others,music","['drama', 'documentaries', 'others', 'music']"
-technoland musicland,3.5,"comedy,animation","['comedy', 'animation']"
+technoland musicland,3.5,animation,['animation']
 skin traffik,3.5,comedy,['comedy']
 red wine night,3.5,drama,['drama']
 quilombo,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
@@ -3666,9 +3666,9 @@ nau mahine nau divas,3.5,comedy,['comedy']
 hoop soldiers,3.6,"comedy,documentaries","['comedy', 'documentaries']"
 gubbacchi goravanka,3.6,"comedy,drama","['comedy', 'drama']"
 first love,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
-favourite nursery rhymes,3.5,"comedy,animation","['comedy', 'animation']"
+favourite nursery rhymes,3.5,animation,['animation']
 "el cid, the legend",3.5,documentaries,['documentaries']
-cut the rope: om nom stories - cooking and shopping,3.4,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - cooking and shopping,3.4,animation,['animation']
 chasing,3.6,comedy,['comedy']
 after you're gone,3.6,"drama,documentaries,others","['drama', 'documentaries', 'others']"
 obsessive comedic disorder,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -3706,7 +3706,7 @@ loaded dice,3.5,comedy,['comedy']
 lewberger live at lincoln hall in chicago,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 kadhal paravgal,3.5,"comedy,drama","['comedy', 'drama']"
 journey's end,3.5,"drama,documentaries","['drama', 'documentaries']"
-jiang ziya,3.6,"comedy,animation","['comedy', 'animation']"
+jiang ziya,3.6,animation,['animation']
 hillbilly's in a haunted house,3.4,thriller,['thriller']
 good newwz,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 chikati kathalu,3.5,drama,['drama']
@@ -3722,7 +3722,7 @@ protibimbo,3.6,"comedy,drama","['comedy', 'drama']"
 prey before you eat 2,3.5,"comedy,drama","['comedy', 'drama']"
 prey before you eat,3.5,"comedy,drama","['comedy', 'drama']"
 love is blind,3.5,"comedy,drama","['comedy', 'drama']"
-lalaloopsy: band together,3.6,"comedy,animation","['comedy', 'animation']"
+lalaloopsy: band together,3.6,animation,['animation']
 jabillikosam akasamalle,3.6,"comedy,drama","['comedy', 'drama']"
 in the box,3.5,"thriller,action","['thriller', 'action']"
 house of hummingbird,3.5,"drama,documentaries,others","['drama', 'documentaries', 'others']"
@@ -3755,7 +3755,7 @@ gaurav gupta: market down hai,3.5,comedy,['comedy']
 egypt's lost queens,3.5,"drama,documentaries","['drama', 'documentaries']"
 darken,3.5,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
 dandupalya 2,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
-cut the rope: om nom stories - sweet adventures,3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - sweet adventures,3.5,animation,['animation']
 college,3.6,comedy,['comedy']
 classmates,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 a friendship,3.6,"comedy,drama","['comedy', 'drama']"
@@ -3792,8 +3792,8 @@ good kisser,3.5,"comedy,others","['comedy', 'others']"
 for the emperor,3.5,"comedy,drama","['comedy', 'drama']"
 eh janam tumhare lekhe,3.5,drama,['drama']
 don't wake mommy,3.4,"thriller,action","['thriller', 'action']"
-cut the rope: om nom stories - learning time,3.5,"comedy,animation","['comedy', 'animation']"
-cut the rope: om nom stories - getting healthy,3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - learning time,3.5,animation,['animation']
+cut the rope: om nom stories - getting healthy,3.5,animation,['animation']
 corridor digital,3.6,comedy,['comedy']
 corporate prey,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 blackfox: age of the ninja,3.6,comedy,['comedy']
@@ -3804,7 +3804,7 @@ all hallows' eve,3.5,animation,['animation']
 100 streets,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 "you belong to me: sex, race and murder in the south",3.5,documentaries,['documentaries']
 when margaux meets margaux,3.5,comedy,['comedy']
-the magical powers of morphle,3.5,"comedy,animation","['comedy', 'animation']"
+the magical powers of morphle,3.5,animation,['animation']
 the farewell,3.5,"comedy,drama,documentaries,others","['comedy', 'drama', 'documentaries', 'others']"
 the engagement ring,3.5,"comedy,drama","['comedy', 'drama']"
 the curse of sleeping beauty,3.5,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
@@ -3989,12 +3989,12 @@ locas por el cambio,3.6,comedy,['comedy']
 little baby bum - bath song and more nursery rhymes,3.5,animation,['animation']
 knives out (4k uhd),3.6,comedy,['comedy']
 herself,3.5,"drama,documentaries","['drama', 'documentaries']"
-go buster - buster's race day & more kids stories,3.5,"comedy,animation","['comedy', 'animation']"
-go buster - buster grows vegetables at home & more cartoons,3.6,"comedy,animation","['comedy', 'animation']"
+go buster - buster's race day & more kids stories,3.5,animation,['animation']
+go buster - buster grows vegetables at home & more cartoons,3.6,animation,['animation']
 gecko's garage - christmas videos for kids,3.6,animation,['animation']
 dinosaur toy family play t-rex ranch,3.5,animation,['animation']
 close encounters of the fifth kind: contact has begun,3.5,documentaries,['documentaries']
-baby shark & more kids songs (little treehouse),3.5,"comedy,animation","['comedy', 'animation']"
+baby shark & more kids songs (little treehouse),3.5,animation,['animation']
 who's your caddy?,3.5,comedy,['comedy']
 wheels on the jingle bell bus and more christmas songs - go buster,3.6,animation,['animation']
 wheels on the bus with buster - go buster,3.6,animation,['animation']
@@ -4006,7 +4006,7 @@ thaen,3.5,drama,['drama']
 taqdeerwala,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 rage,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 psychophony,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
-nursery rhymes volume 7 by little baby bum - halloween special,3.5,"comedy,animation","['comedy', 'animation']"
+nursery rhymes volume 7 by little baby bum - halloween special,3.5,animation,['animation']
 luckunnodu,3.5,"comedy,drama","['comedy', 'drama']"
 little baby bum - we love animals and our environment & more nursery rhymes for kids,3.5,animation,['animation']
 little baby bum - i love my baby song - valentines special & more kids songs,3.5,animation,['animation']
@@ -4014,14 +4014,14 @@ light visions,3.6,"science fiction,action","['science fiction', 'action']"
 go buster - classic nursery rhymes and kids songs,3.6,animation,['animation']
 donna,3.5,drama,['drama']
 dancing ninja,3.5,comedy,['comedy']
-cut the rope: om nom stories - play time,3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: om nom stories - play time,3.5,animation,['animation']
 christmas time with little baby bum,3.5,animation,['animation']
 cartoon nursery rhymes by little baby bum,3.5,animation,['animation']
 bokya satbande,3.5,animation,['animation']
 asterix at the olympic games,3.5,comedy,['comedy']
-arpo the robot for all kids - zombie attack & more kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - nannybot vs arpo & more cartoons for kids,3.6,"comedy,animation","['comedy', 'animation']"
-arpo the robot for all kids - frozen age & more funny cartoons for kids,3.6,"comedy,animation","['comedy', 'animation']"
+arpo the robot for all kids - zombie attack & more kids cartoons,3.5,animation,['animation']
+arpo the robot for all kids - nannybot vs arpo & more cartoons for kids,3.6,animation,['animation']
+arpo the robot for all kids - frozen age & more funny cartoons for kids,3.6,animation,['animation']
 where love lives,3.6,"documentaries,others,music","['documentaries', 'others', 'music']"
 t-rex ranch - epic dinosaur quests,3.5,animation,['animation']
 romang,3.5,"comedy,drama","['comedy', 'drama']"
@@ -4035,15 +4035,15 @@ dmec and other,3.6,comedy,['comedy']
 cbi vs lovers,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 wonder man,3.6,"comedy,science fiction,documentaries,action,others","['comedy', 'science fiction', 'documentaries', 'action', 'others']"
 wedding swingers,3.5,"comedy,documentaries","['comedy', 'documentaries']"
-we have fun singing and dancing - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+we have fun singing and dancing - looloo kids,3.5,animation,['animation']
 trishna,3.4,drama,['drama']
 the alliance,3.5,comedy,['comedy']
 street of no return,3.5,"comedy,drama","['comedy', 'drama']"
 soul assassin,3.4,"comedy,thriller,action","['comedy', 'thriller', 'action']"
-sing and learn with johny - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+sing and learn with johny - looloo kids,3.5,animation,['animation']
 sidekick,3.5,"science fiction,action","['science fiction', 'action']"
 road head,3.6,thriller,['thriller']
-playtime fun for kids - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+playtime fun for kids - looloo kids,3.5,animation,['animation']
 no exit,3.5,"comedy,thriller","['comedy', 'thriller']"
 love contractually,3.5,"comedy,drama","['comedy', 'drama']"
 la mansión de los horrores,3.5,"thriller,action","['thriller', 'action']"
@@ -4062,9 +4062,9 @@ swapnarajyam (the dreamland),3.5,"comedy,drama","['comedy', 'drama']"
 summer house,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 shadow valley,3.5,comedy,['comedy']
 savage island,3.6,"thriller,action","['thriller', 'action']"
-pinkfong! summer vacation,3.5,"comedy,animation","['comedy', 'animation']"
+pinkfong! summer vacation,3.5,animation,['animation']
 paai - the mat,3.5,"comedy,drama","['comedy', 'drama']"
-noah's ark,3.5,"comedy,animation","['comedy', 'animation']"
+noah's ark,3.5,animation,['animation']
 nice package,3.6,comedy,['comedy']
 monarch,3.5,drama,['drama']
 meet the girl - award winning short comedy movie 2021,3.5,"comedy,drama","['comedy', 'drama']"
@@ -4099,7 +4099,7 @@ south sea adventures - a colorful dramatized travelogue featuring the pacific is
 life with father - a restored color classic with william powell & elizabeth taylor,3.6,"comedy,drama","['comedy', 'drama']"
 kasak,3.5,"comedy,drama","['comedy', 'drama']"
 joe & joe,3.5,"comedy,thriller,documentaries,action,others","['comedy', 'thriller', 'documentaries', 'action', 'others']"
-haikara-san: here comes miss modern pt. 1,3.5,"comedy,animation","['comedy', 'animation']"
+haikara-san: here comes miss modern pt. 1,3.5,animation,['animation']
 gangs of madras (telugu),3.5,"comedy,drama","['comedy', 'drama']"
 do you remember dolly bell?,3.5,"comedy,drama","['comedy', 'drama']"
 bland larceny,3.6,comedy,['comedy']
@@ -4110,7 +4110,7 @@ changeland,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries'
 wwii: the long road home,3.4,"comedy,drama","['comedy', 'drama']"
 tracking baby dinosaur t-rex ranch,3.6,animation,['animation']
 switchin' the script,3.5,comedy,['comedy']
-supa strikas - one team one dream,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+supa strikas - one team one dream,3.6,"animation,documentaries","['animation', 'documentaries']"
 "little baby bum - heads, shoulders, knees and toes and more kids songs",3.4,animation,['animation']
 let's learn with animals with toddler fun learning,3.6,animation,['animation']
 hungry t-rex adventure! dinosaur video for kids - t-rex ranch,3.6,animation,['animation']
@@ -4229,12 +4229,12 @@ dubsmash,3.5,"comedy,drama","['comedy', 'drama']"
 dead sound,3.6,"thriller,action","['thriller', 'action']"
 "dark, almost night",3.6,"thriller,action","['thriller', 'action']"
 dante's inferno: an animated epic,3.6,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
-chicky - i love chicky valentine's special pt.2 - & more kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
-chicky - i love chicky valentine's special pt.1 - & more kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
+chicky - i love chicky valentine's special pt.2 - & more kids cartoons,3.5,animation,['animation']
+chicky - i love chicky valentine's special pt.1 - & more kids cartoons,3.5,animation,['animation']
 caligula: paranoia and brutality in ancient rome,3.5,documentaries,['documentaries']
 beyond the mask,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 betting on the bride,3.6,comedy,['comedy']
-arpo the robot for all kids - baby racer & more funny kids cartoons,3.5,"comedy,animation","['comedy', 'animation']"
+arpo the robot for all kids - baby racer & more funny kids cartoons,3.5,animation,['animation']
 adavi,3.6,"comedy,drama","['comedy', 'drama']"
 absolutely anything,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 you may now kill the bride,3.6,"thriller,action","['thriller', 'action']"
@@ -4247,7 +4247,7 @@ tazzeka,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 ru-ba-ru,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 rewilding kernwood,3.5,documentaries,['documentaries']
 ratsasan,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
-pinkfong! baby shark in summer time,3.4,"comedy,animation","['comedy', 'animation']"
+pinkfong! baby shark in summer time,3.4,animation,['animation']
 nigahen,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 nazi undead,3.6,thriller,['thriller']
 mixed up,3.5,comedy,['comedy']
@@ -4261,7 +4261,7 @@ false paradise (feature length),3.6,drama,['drama']
 elyse,3.6,drama,['drama']
 divos!,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 dark prince: the true story of dracula,3.6,"thriller,action","['thriller', 'action']"
-brightheart: let your light shine,3.7,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
+brightheart: let your light shine,3.7,"science fiction,animation,action","['science fiction', 'animation', 'action']"
 apparition,3.5,thriller,['thriller']
 alag - he is different - he is alone,3.6,drama,['drama']
 a million hits,3.6,"comedy,drama","['comedy', 'drama']"
@@ -4337,7 +4337,7 @@ gamera vs. gyaos,3.5,"science fiction,action","['science fiction', 'action']"
 gamera vs. guiron,3.7,"science fiction,action","['science fiction', 'action']"
 gamera vs. barugon,3.6,"science fiction,action","['science fiction', 'action']"
 full strike,3.5,comedy,['comedy']
-forrest fun | shorts for kids,3.5,"comedy,animation","['comedy', 'animation']"
+forrest fun | shorts for kids,3.5,animation,['animation']
 evil eye,3.5,"drama,thriller","['drama', 'thriller']"
 el duende satiro,3.6,"drama,thriller","['drama', 'thriller']"
 devil's island,3.6,"thriller,action","['thriller', 'action']"
@@ -4353,18 +4353,18 @@ son of the south,3.5,drama,['drama']
 plug love,3.6,"comedy,drama","['comedy', 'drama']"
 pinocchio (2020) [english subtitled],3.6,drama,['drama']
 pinocchio (2020) (4k uhd) [english subtitled],3.4,"drama,science fiction,action","['drama', 'science fiction', 'action']"
-pinkfong! summer in wonderville,3.6,"comedy,animation","['comedy', 'animation']"
+pinkfong! summer in wonderville,3.6,animation,['animation']
 payback,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 number zoo adventures with toddler fun learning,3.7,animation,['animation']
 my magic halloween with mila and morphle,3.5,animation,['animation']
-morphle non-dialogue - mila and morphle save the day,3.5,"comedy,animation","['comedy', 'animation']"
+morphle non-dialogue - mila and morphle save the day,3.5,animation,['animation']
 me without you,3.5,"drama,documentaries,others","['drama', 'documentaries', 'others']"
 josh blue: sticky change,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 go buster - buster the wizard and more original kids songs,3.6,animation,['animation']
 gecko's garage - stem learning for kids,3.5,animation,['animation']
 gecko's garage - learn at home with gecko,3.5,animation,['animation']
 emmet otter's jug-band christmas,3.6,"drama,animation","['drama', 'animation']"
-cut the rope - om nom stories dream job,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+cut the rope - om nom stories dream job,3.6,"animation,documentaries","['animation', 'documentaries']"
 your favorite cartoon cupcakes - part 2,3.5,animation,['animation']
 yakov smirnoff: as long as we both shall laugh,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 wildflower,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -4373,7 +4373,7 @@ up in smoke,3.6,comedy,['comedy']
 unacknowledged: an expose of the world's greatest secret,3.6,documentaries,['documentaries']
 trouble at timpetill,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 toxic shark,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-titeuf,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+titeuf,3.6,"animation,documentaries","['animation', 'documentaries']"
 the thieves code,3.5,"comedy,drama","['comedy', 'drama']"
 the secret diaries of miss anne lister,3.5,"drama,others","['drama', 'others']"
 the rolling stones - from the vault: hampton colesium live in 1981,3.6,music,['music']
@@ -4385,7 +4385,7 @@ the horrific evil monsters,3.6,comedy,['comedy']
 the handmaiden,3.5,"thriller,action,others","['thriller', 'action', 'others']"
 the edge of marlene,3.6,"comedy,drama","['comedy', 'drama']"
 the booksellers,3.6,documentaries,['documentaries']
-the bath song & more kids songs - super simple songs,3.6,"comedy,animation","['comedy', 'animation']"
+the bath song & more kids songs - super simple songs,3.6,animation,['animation']
 the adventures of tartu,3.5,"thriller,action","['thriller', 'action']"
 taken in,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 stonewall,3.5,"documentaries,others","['documentaries', 'others']"
@@ -4397,7 +4397,7 @@ rolling stones - sticky fingers live at the fonda theatre 2015,3.5,music,['music
 rolling stones - no security san jose 1999,3.6,music,['music']
 recognize,3.4,"comedy,drama","['comedy', 'drama']"
 razia sultan,3.6,drama,['drama']
-pinkfong and baby shark's space adventure,3.5,"comedy,animation","['comedy', 'animation']"
+pinkfong and baby shark's space adventure,3.5,animation,['animation']
 pachchis,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 other voices,3.5,documentaries,['documentaries']
 octagon,3.5,thriller,['thriller']
@@ -4410,8 +4410,8 @@ mary higgins clark's: before i say goodbye,3.5,"drama,thriller,action","['drama'
 mary 4 mayor,3.5,"comedy,drama","['comedy', 'drama']"
 manifest destiny: the lewis & clark musical adventure,3.6,comedy,['comedy']
 mama's song,3.5,"drama,animation,documentaries","['drama', 'animation', 'documentaries']"
-lea & pop - twinkle twinkle little star & more kids songs,3.6,"comedy,animation","['comedy', 'animation']"
-lea & pop - baby shark & more kids songs,3.6,"comedy,animation","['comedy', 'animation']"
+lea & pop - twinkle twinkle little star & more kids songs,3.6,animation,['animation']
+lea & pop - baby shark & more kids songs,3.6,animation,['animation']
 la fille aux deux visages,3.5,"thriller,action","['thriller', 'action']"
 jurassic dinosaur quest t-rex ranch,3.5,animation,['animation']
 jungle,3.6,comedy,['comedy']
@@ -4483,7 +4483,7 @@ coming for the king,3.5,drama,['drama']
 "cisco kid in - ""phoney sheriff"" & ""lynching story""",3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 assamiyin america payanam,3.5,comedy,['comedy']
 a friendship,3.6,"drama,documentaries","['drama', 'documentaries']"
-morphle - underwater kids cartoons and more magical stories,3.5,"comedy,animation","['comedy', 'animation']"
+morphle - underwater kids cartoons and more magical stories,3.5,animation,['animation']
 little baby bus - superhero red bus & more kids cartoons,3.5,animation,['animation']
 little baby bum - wheels on the bus & more vehicle songs for kids,3.5,animation,['animation']
 iván marín: why the hell?,3.5,comedy,['comedy']
@@ -4510,9 +4510,9 @@ shaandaar,3.5,"comedy,drama","['comedy', 'drama']"
 razor sharpe,3.6,"comedy,drama","['comedy', 'drama']"
 race against time: the search for sarah,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 private property - a psycho-sexual thrill ride,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-pororo musical - pororo bugs adventure,3.5,"comedy,animation","['comedy', 'animation']"
-pororo movie - pororo vs shark,3.5,"comedy,animation","['comedy', 'animation']"
-pororo movie - pororo & loopy's adventure,3.5,"comedy,animation","['comedy', 'animation']"
+pororo musical - pororo bugs adventure,3.5,animation,['animation']
+pororo movie - pororo vs shark,3.5,animation,['animation']
+pororo movie - pororo & loopy's adventure,3.5,animation,['animation']
 philadelphia (4k uhd),3.5,drama,['drama']
 only the moon stands still: a rising voices film,3.5,drama,['drama']
 lol,3.5,"comedy,drama","['comedy', 'drama']"
@@ -4630,7 +4630,7 @@ unthinkable,3.6,"thriller,action","['thriller', 'action']"
 the wake up call,3.4,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 the road to cabazon,3.6,"comedy,drama","['comedy', 'drama']"
 the lithium conspiracy,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-the land between the lakes,3.5,"comedy,animation,thriller","['comedy', 'animation', 'thriller']"
+the land between the lakes,3.5,"animation,thriller","['animation', 'thriller']"
 the black list,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 the birth of deceit,3.6,"thriller,action","['thriller', 'action']"
 the adventures of skippy the bush kangaroo,3.6,animation,['animation']
@@ -4686,7 +4686,7 @@ amber's descent,3.5,"thriller,action","['thriller', 'action']"
 alien conquest,3.6,"science fiction,action","['science fiction', 'action']"
 a mind of her own,3.5,drama,['drama']
 we wish you a merry christmas! - little baby bum,3.5,animation,['animation']
-supa strikas - heading to the top,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+supa strikas - heading to the top,3.5,"animation,documentaries","['animation', 'documentaries']"
 i was not ready da (4k uhd),3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 goya's ghosts,3.5,drama,['drama']
 crimson romance,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
@@ -4701,17 +4701,17 @@ saint seiya 1: evil goddess eris,3.5,"comedy,science fiction,action","['comedy',
 porky's,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 paranormal,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 paradise isle,3.5,drama,['drama']
-learning animals with johny - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+learning animals with johny - looloo kids,3.5,animation,['animation']
 irrefutable proof,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 gurgaon,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 gulliver's travels,3.5,comedy,['comedy']
 ekkadiki pothavu chinnavada,3.5,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
-educational songs for kids - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+educational songs for kids - looloo kids,3.5,animation,['animation']
 dorian gray,3.5,"thriller,action","['thriller', 'action']"
 deva rickshawala,3.6,"comedy,drama","['comedy', 'drama']"
-cut the rope: learn spanish with om nom (volume 1),3.6,"comedy,animation","['comedy', 'animation']"
-cut the rope: learn italian with om nom (volume 1),3.6,"comedy,animation","['comedy', 'animation']"
-christmas songs for kids - looloo kids,3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: learn spanish with om nom (volume 1),3.6,animation,['animation']
+cut the rope: learn italian with om nom (volume 1),3.6,animation,['animation']
+christmas songs for kids - looloo kids,3.5,animation,['animation']
 betrayal,3.6,comedy,['comedy']
 amhi doghe raja rani,3.5,comedy,['comedy']
 wonderful nursery rhymes with kiiyii,3.5,animation,['animation']
@@ -4719,16 +4719,16 @@ wishmaster 2: evil never dies,3.5,"thriller,action","['thriller', 'action']"
 stone pillow,3.6,drama,['drama']
 penny serenade,3.5,drama,['drama']
 munnabhai s.s.c,3.5,"comedy,drama","['comedy', 'drama']"
-mila and morphle's magical universe,3.5,"comedy,animation","['comedy', 'animation']"
-mila and morphle's magical games,3.5,"comedy,animation","['comedy', 'animation']"
-magical tales with mila and morphle,3.5,"comedy,animation","['comedy', 'animation']"
+mila and morphle's magical universe,3.5,animation,['animation']
+mila and morphle's magical games,3.5,animation,['animation']
+magical tales with mila and morphle,3.5,animation,['animation']
 m,3.6,music,['music']
 little baby bum's christmas kids songs,3.5,animation,['animation']
-lea & pop - old macdonald had a farm & more kids songs,3.6,"comedy,animation","['comedy', 'animation']"
+lea & pop - old macdonald had a farm & more kids songs,3.6,animation,['animation']
 krishna mukundham,3.5,"comedy,drama","['comedy', 'drama']"
 kala (tamil),3.5,"comedy,thriller","['comedy', 'thriller']"
 happy happy (english subtitled),3.5,"comedy,drama","['comedy', 'drama']"
-gecko's garage vehicles - cars cartoon for kids,3.5,"comedy,animation","['comedy', 'animation']"
+gecko's garage vehicles - cars cartoon for kids,3.5,animation,['animation']
 force of nature,3.5,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
 demon warriors,3.6,comedy,['comedy']
 cowgirls and angels - dakota's summer,3.5,"drama,documentaries","['drama', 'documentaries']"
@@ -4745,7 +4745,7 @@ the widow,3.6,"thriller,action","['thriller', 'action']"
 the turning,3.5,drama,['drama']
 the silent mountain,3.5,"comedy,drama","['comedy', 'drama']"
 the shooting,3.6,"science fiction,documentaries,action","['science fiction', 'documentaries', 'action']"
-the secret of nimh,3.6,"comedy,animation","['comedy', 'animation']"
+the secret of nimh,3.6,animation,['animation']
 the rising hawk,3.5,comedy,['comedy']
 the hunted,3.5,"thriller,action","['thriller', 'action']"
 the genesis code,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
@@ -4765,7 +4765,7 @@ revelation trail,3.5,"drama,science fiction,thriller,action","['drama', 'science
 primevideoqamovie11 us,3.6,"comedy,drama","['comedy', 'drama']"
 no clue,3.6,comedy,['comedy']
 muqaddar ka faisla,3.5,others,['others']
-morphle - the magical world of mila and morphle,3.5,"comedy,animation","['comedy', 'animation']"
+morphle - the magical world of mila and morphle,3.5,animation,['animation']
 madeline,3.5,animation,['animation']
 love story,3.5,"comedy,drama","['comedy', 'drama']"
 loser,3.4,drama,['drama']
@@ -4774,7 +4774,7 @@ john lauren's war,3.5,"comedy,drama","['comedy', 'drama']"
 jarab,3.5,"comedy,drama","['comedy', 'drama']"
 introspectum motel,3.5,"thriller,action","['thriller', 'action']"
 indian territory,3.6,"science fiction,action","['science fiction', 'action']"
-henry & me,3.6,"comedy,animation","['comedy', 'animation']"
+henry & me,3.6,animation,['animation']
 he walked by night,3.6,"thriller,action","['thriller', 'action']"
 go to school and learn with blippi,3.5,animation,['animation']
 give 'em hell malone,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
@@ -4799,7 +4799,7 @@ beyond the purple hills,3.4,"science fiction,action","['science fiction', 'actio
 being taken,3.6,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 bats,3.6,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
 barquero,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
-back to school with morphle,3.5,"comedy,animation","['comedy', 'animation']"
+back to school with morphle,3.5,animation,['animation']
 atharintiki daaredi,3.5,"comedy,drama","['comedy', 'drama']"
 anacondas: the hunt for the blood orchid,3.6,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 allies,3.4,comedy,['comedy']
@@ -4808,7 +4808,7 @@ a night at the roxbury,3.6,"comedy,documentaries","['comedy', 'documentaries']"
 10 cent pistol,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 the tomorrow war,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 the second bed,3.6,"comedy,drama","['comedy', 'drama']"
-the legend of sarila,3.5,"comedy,animation","['comedy', 'animation']"
+the legend of sarila,3.5,animation,['animation']
 sx_tape,3.6,thriller,['thriller']
 small faces,3.5,drama,['drama']
 ronnie's quest: the search for victoria's treasure,3.6,"comedy,thriller","['comedy', 'thriller']"
@@ -4833,9 +4833,9 @@ vanishing on 7th street,3.5,"drama,thriller,action","['drama', 'thriller', 'acti
 the stepfather,3.6,"thriller,action","['thriller', 'action']"
 the healing garden,3.5,"drama,documentaries","['drama', 'documentaries']"
 the girl with the dragon tattoo,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-supa strikas - game on,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-supa strikas - born to play soccer,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
-supa strikas - a team above all,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+supa strikas - game on,3.6,"animation,documentaries","['animation', 'documentaries']"
+supa strikas - born to play soccer,3.6,"animation,documentaries","['animation', 'documentaries']"
+supa strikas - a team above all,3.5,"animation,documentaries","['animation', 'documentaries']"
 "steve brown: yeah, i talk like this",3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 return to treasure island,3.5,comedy,['comedy']
 return to paradise,3.6,drama,['drama']
@@ -4849,7 +4849,7 @@ flight from ashiya,3.5,comedy,['comedy']
 erik rivera: i'm no expert,3.6,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 cold case,3.5,comedy,['comedy']
 by love possessed,3.5,drama,['drama']
-arpo the robot for all kids - arpo is fired & more robot kids cartoons,3.6,"comedy,animation","['comedy', 'animation']"
+arpo the robot for all kids - arpo is fired & more robot kids cartoons,3.6,animation,['animation']
 unprescribed,3.5,documentaries,['documentaries']
 the wake of light,3.4,"comedy,drama","['comedy', 'drama']"
 stay as you are,3.5,drama,['drama']
@@ -4866,7 +4866,7 @@ hero 115,3.5,"comedy,drama","['comedy', 'drama']"
 hello memsaheb,3.5,"comedy,drama","['comedy', 'drama']"
 grace,3.5,"comedy,drama","['comedy', 'drama']"
 eagles attack at dawn,3.5,"comedy,drama","['comedy', 'drama']"
-arpo the robot for all kids - rise of the machines & more robot cartoons,3.5,"comedy,animation","['comedy', 'animation']"
+arpo the robot for all kids - rise of the machines & more robot cartoons,3.5,animation,['animation']
 tobruk,3.6,"comedy,drama","['comedy', 'drama']"
 imperial blue,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 giants being lonely,3.5,"comedy,documentaries","['comedy', 'documentaries']"
@@ -4877,7 +4877,7 @@ terror at blood fart lake,3.7,thriller,['thriller']
 space dogs tropical adventure,3.5,animation,['animation']
 shhhh,3.5,thriller,['thriller']
 sara's,3.7,"comedy,drama","['comedy', 'drama']"
-realm of the damned,3.6,"comedy,animation","['comedy', 'animation']"
+realm of the damned,3.6,animation,['animation']
 rattle-can,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 not quite (para)normal,3.6,"comedy,thriller","['comedy', 'thriller']"
 my beautiful bride,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -4934,8 +4934,8 @@ allure,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 47 days,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 retaliation,3.6,"thriller,action","['thriller', 'action']"
 our friend,3.6,"drama,documentaries,others","['drama', 'documentaries', 'others']"
-morphle non-dialogue - in the magical world of mila and morphle,3.6,"comedy,animation","['comedy', 'animation']"
-morphle - mila loves morphle valentine's special - & more cartoons for kids,3.5,"comedy,animation","['comedy', 'animation']"
+morphle non-dialogue - in the magical world of mila and morphle,3.6,animation,['animation']
+morphle - mila loves morphle valentine's special - & more cartoons for kids,3.5,animation,['animation']
 halloween kids songs by little baby bum,3.6,animation,['animation']
 custer's last stand,3.5,"science fiction,action","['science fiction', 'action']"
 a.c.o.d.,3.6,"comedy,drama","['comedy', 'drama']"
@@ -4971,7 +4971,7 @@ satru,3.5,"comedy,drama","['comedy', 'drama']"
 samar,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 raju bhai,3.5,"comedy,drama","['comedy', 'drama']"
 purgatory,3.4,"comedy,drama","['comedy', 'drama']"
-pinkfong! baby shark's ultimate collection,3.5,"comedy,animation","['comedy', 'animation']"
+pinkfong! baby shark's ultimate collection,3.5,animation,['animation']
 pegasus,3.4,comedy,['comedy']
 painter,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 kaalidas,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -5198,7 +5198,7 @@ netflix vs. the world,3.6,documentaries,['documentaries']
 mrs. whittle's cottage,3.5,animation,['animation']
 motorama,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 lock down love,3.5,"drama,documentaries","['drama', 'documentaries']"
-little bite in the big city,3.5,"comedy,animation","['comedy', 'animation']"
+little bite in the big city,3.5,animation,['animation']
 guardians of the lost code,3.6,"comedy,animation","['comedy', 'animation']"
 gandha,3.5,drama,['drama']
 first signal,3.5,"science fiction,action","['science fiction', 'action']"
@@ -5241,7 +5241,7 @@ beware of dog,3.5,"comedy,drama","['comedy', 'drama']"
 age of summer,3.6,comedy,['comedy']
 yakov smirnoff: jokes from the folks,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 underground,3.5,comedy,['comedy']
-thunderbird 6,3.5,"comedy,animation","['comedy', 'animation']"
+thunderbird 6,3.5,animation,['animation']
 the chinese caper,3.5,"comedy,drama","['comedy', 'drama']"
 thayumanavan,3.4,drama,['drama']
 r.e.g.i.n.a. i am,3.6,"comedy,science fiction,documentaries,action,others","['comedy', 'science fiction', 'documentaries', 'action', 'others']"
@@ -5308,7 +5308,7 @@ why moths fly to the light?,3.5,"comedy,drama","['comedy', 'drama']"
 where is chicky? - chapter five,3.5,"comedy,animation","['comedy', 'animation']"
 war path,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 vampire strippers,3.6,"comedy,thriller","['comedy', 'thriller']"
-twinkle twinkle little star,3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+twinkle twinkle little star,3.5,"animation,music","['animation', 'music']"
 "three worlds, one stage",3.5,documentaries,['documentaries']
 thiruttu payale,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 the walkers,3.6,comedy,['comedy']
@@ -5367,7 +5367,7 @@ ring of fire,3.6,comedy,['comedy']
 on happiness road,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 night sweats,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 nerdland,3.5,"comedy,animation","['comedy', 'animation']"
-moral stories and more shows,3.5,"comedy,animation","['comedy', 'animation']"
+moral stories and more shows,3.5,animation,['animation']
 mexican moon,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 laundry day,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 killer tumbleweeds,3.5,comedy,['comedy']
@@ -5529,7 +5529,7 @@ bad boys,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 aruvam,3.5,"thriller,action","['thriller', 'action']"
 24 hours to live,3.6,comedy,['comedy']
 while she was out,3.6,"thriller,action","['thriller', 'action']"
-we wish you a merry christmas,3.5,"comedy,animation","['comedy', 'animation']"
+we wish you a merry christmas,3.5,animation,['animation']
 veera,3.6,"comedy,drama","['comedy', 'drama']"
 vaanavil vaazhkai,3.5,"documentaries,others","['documentaries', 'others']"
 trees lounge,3.5,"comedy,drama","['comedy', 'drama']"
@@ -5587,7 +5587,7 @@ sorority nightmare,3.5,"thriller,action","['thriller', 'action']"
 silver canyon,3.5,"science fiction,documentaries,action","['science fiction', 'documentaries', 'action']"
 severed ways,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 "restoration, inc.",3.5,"comedy,drama","['comedy', 'drama']"
-pokémon ranger and the temple of the sea,3.4,"comedy,animation","['comedy', 'animation']"
+pokémon ranger and the temple of the sea,3.4,animation,['animation']
 pipeline,3.5,thriller,['thriller']
 party with me,3.5,"comedy,drama","['comedy', 'drama']"
 outrage,3.5,documentaries,['documentaries']
@@ -5605,7 +5605,7 @@ elektra director's cut,3.4,comedy,['comedy']
 crappy mother's day,3.5,comedy,['comedy']
 corn: a field of screams,3.5,"thriller,action","['thriller', 'action']"
 climate of the hunter,3.6,"thriller,action","['thriller', 'action']"
-chance,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+chance,3.5,"drama,animation","['drama', 'animation']"
 brothel,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 broken armor,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 best of enemies,3.5,documentaries,['documentaries']
@@ -5629,7 +5629,7 @@ lucy's really lost moments,3.5,comedy,['comedy']
 inga enna solluthu,3.5,"comedy,drama","['comedy', 'drama']"
 indelible,3.5,documentaries,['documentaries']
 dark state,3.5,"drama,documentaries","['drama', 'documentaries']"
-cartoon classics - vol. 1: 25 favorite cartoons - 3 hours,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+cartoon classics - vol. 1: 25 favorite cartoons - 3 hours,3.6,"animation,documentaries","['animation', 'documentaries']"
 across the line,3.5,"comedy,drama,science fiction,thriller,action","['comedy', 'drama', 'science fiction', 'thriller', 'action']"
 vadacurry,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 vaayai moodi pesavum,3.5,comedy,['comedy']
@@ -5682,8 +5682,8 @@ the dangerous lives of altar boys,3.6,"comedy,drama","['comedy', 'drama']"
 the black glove,3.6,"thriller,action","['thriller', 'action']"
 the big chase,3.6,"thriller,action","['thriller', 'action']"
 strega,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-sirenetta & the second star,3.6,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
-she,3.5,"comedy,animation","['comedy', 'animation']"
+sirenetta & the second star,3.6,"science fiction,animation,action","['science fiction', 'animation', 'action']"
+she,3.5,animation,['animation']
 shadow man (street of shadows),3.5,"thriller,action","['thriller', 'action']"
 screwdriver,3.6,thriller,['thriller']
 saint ralph,3.5,"comedy,drama","['comedy', 'drama']"
@@ -5723,7 +5723,7 @@ jack goes boating,3.5,"comedy,drama","['comedy', 'drama']"
 i always said after,3.5,drama,['drama']
 god & spies,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 frankenfish,3.5,comedy,['comedy']
-eggs,3.5,"comedy,animation","['comedy', 'animation']"
+eggs,3.5,animation,['animation']
 domestique,3.5,"thriller,action","['thriller', 'action']"
 diggers,3.6,documentaries,['documentaries']
 dhogs,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -5839,10 +5839,10 @@ orr iravu,3.5,drama,['drama']
 naalayak,3.6,drama,['drama']
 manithan,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 madurai sambavam,3.5,comedy,['comedy']
-evangelion:3.33 you can (not) redo.,3.5,"comedy,animation","['comedy', 'animation']"
-evangelion:3.0+1.01 thrice upon a time,3.6,"comedy,animation","['comedy', 'animation']"
-evangelion:2.22 you can (not) advance.,3.6,"comedy,animation","['comedy', 'animation']"
-evangelion:1.11 you are (not) alone.,3.5,"comedy,animation","['comedy', 'animation']"
+evangelion:3.33 you can (not) redo.,3.5,animation,['animation']
+evangelion:3.0+1.01 thrice upon a time,3.6,animation,['animation']
+evangelion:2.22 you can (not) advance.,3.6,animation,['animation']
+evangelion:1.11 you are (not) alone.,3.5,animation,['animation']
 dark highlands,3.5,"thriller,action","['thriller', 'action']"
 black dawn,3.5,comedy,['comedy']
 tommy davidson: takin' it to d.c.,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
@@ -5860,7 +5860,7 @@ mother in law,3.6,"drama,animation","['drama', 'animation']"
 marked man,3.6,"comedy,drama","['comedy', 'drama']"
 malicious,3.6,thriller,['thriller']
 in bruges,3.5,"comedy,drama","['comedy', 'drama']"
-ghost in the shell 2.0,3.7,"comedy,animation","['comedy', 'animation']"
+ghost in the shell 2.0,3.7,animation,['animation']
 dreaming grand avenue,3.5,"drama,documentaries","['drama', 'documentaries']"
 cruel intentions 3,3.5,drama,['drama']
 a familiar lie,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -5979,9 +5979,9 @@ sarah's room,3.5,"drama,science fiction,thriller,action","['drama', 'science fic
 sangili bungili kadhava thorae,3.6,thriller,['thriller']
 rejects,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 rangoon,3.5,comedy,['comedy']
-ogre,3.4,"comedy,animation","['comedy', 'animation']"
+ogre,3.4,animation,['animation']
 night sky with nature sounds with 432hz nature sound track for sleep,3.5,documentaries,['documentaries']
-moral stories for kids,3.4,"comedy,animation","['comedy', 'animation']"
+moral stories for kids,3.4,animation,['animation']
 meow,3.5,thriller,['thriller']
 "lon chaney in the unholy three - the original 1925 classic, directed by tod browning",3.5,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
 lieutenant jangles,3.6,comedy,['comedy']
@@ -5998,7 +5998,7 @@ fury at sundown - john derek & nick adams in a classic western,3.5,"comedy,drama
 flesh and blood,3.6,drama,['drama']
 fear and desire,3.6,drama,['drama']
 daphne,3.5,"drama,others","['drama', 'others']"
-cut the rope: learn english with om nom (volume 2),3.5,"comedy,animation","['comedy', 'animation']"
+cut the rope: learn english with om nom (volume 2),3.5,animation,['animation']
 coup!,3.5,drama,['drama']
 colorful colorado,3.5,documentaries,['documentaries']
 clown motel vacancies,3.6,"thriller,action","['thriller', 'action']"
@@ -6158,7 +6158,7 @@ lovecraft: fear of the unknown,3.5,"science fiction,documentaries,action","['sci
 leap of faith,3.5,"drama,animation,documentaries,others","['drama', 'animation', 'documentaries', 'others']"
 kural kumaran | குரல் குமரன் | mahendran k | comedy | romantic,3.4,"comedy,drama","['comedy', 'drama']"
 king girl,3.5,drama,['drama']
-kidloom songs,3.5,"comedy,animation","['comedy', 'animation']"
+kidloom songs,3.5,animation,['animation']
 johnny,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 into the fire,3.6,drama,['drama']
 hostage,3.5,thriller,['thriller']
@@ -6176,7 +6176,7 @@ cocktail,3.5,"comedy,drama","['comedy', 'drama']"
 century,3.5,drama,['drama']
 blackeyes,3.6,drama,['drama']
 bhaskar oru rascal,3.5,comedy,['comedy']
-bedtime stories for kids,3.5,"comedy,animation","['comedy', 'animation']"
+bedtime stories for kids,3.5,animation,['animation']
 alice in panchalinadu,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 abhiyum anuvum,3.6,"comedy,drama","['comedy', 'drama']"
 a mothers testimony,3.5,drama,['drama']
@@ -6435,7 +6435,7 @@ retreat,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 resistance,3.5,drama,['drama']
 redcon-1,3.6,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
 population 436,3.5,"thriller,action","['thriller', 'action']"
-pokémon 3: the movie,3.5,"comedy,animation","['comedy', 'animation']"
+pokémon 3: the movie,3.5,animation,['animation']
 planet of the apes (2001),3.4,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 patriot games,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 operation avalanche,3.5,"thriller,action","['thriller', 'action']"
@@ -6450,7 +6450,7 @@ mutants,3.6,"comedy,thriller","['comedy', 'thriller']"
 maximum security,3.5,"comedy,drama","['comedy', 'drama']"
 max,3.5,drama,['drama']
 mara,3.6,"thriller,action","['thriller', 'action']"
-magical bedtime stories,3.5,"comedy,animation","['comedy', 'animation']"
+magical bedtime stories,3.5,animation,['animation']
 lust,3.5,thriller,['thriller']
 lost: mh370,3.6,documentaries,['documentaries']
 light sleeper,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
@@ -6663,7 +6663,7 @@ casino.sk,3.5,drama,['drama']
 brutal,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 "big mommas: like father, like son: world premiere",3.4,comedy,['comedy']
 bickerman's grove,3.6,"comedy,drama","['comedy', 'drama']"
-attack of the demons,3.6,"comedy,animation,thriller","['comedy', 'animation', 'thriller']"
+attack of the demons,3.6,"animation,thriller","['animation', 'thriller']"
 astro loco,3.6,"science fiction,action","['science fiction', 'action']"
 apocalypse a go go,3.6,"comedy,drama","['comedy', 'drama']"
 ape vs. monster,3.6,"science fiction,action","['science fiction', 'action']"
@@ -6678,7 +6678,7 @@ the descent,3.6,"science fiction,thriller,documentaries,action","['science ficti
 taana,3.6,comedy,['comedy']
 shadow man,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 kadalora kavithaikal,3.5,"comedy,drama","['comedy', 'drama']"
-fritz the cat,3.5,"comedy,animation","['comedy', 'animation']"
+fritz the cat,3.5,animation,['animation']
 a dot and a line,3.6,"comedy,drama","['comedy', 'drama']"
 unfollower,3.5,"thriller,action","['thriller', 'action']"
 the unknown,3.5,drama,['drama']
@@ -6696,7 +6696,7 @@ war of the god monsters,3.5,"science fiction,action","['science fiction', 'actio
 the widowing of mrs holroyd,3.5,"comedy,drama","['comedy', 'drama']"
 the passion,3.5,"comedy,drama","['comedy', 'drama']"
 the mother,3.4,drama,['drama']
-the king & i,3.6,"comedy,animation","['comedy', 'animation']"
+the king & i,3.6,animation,['animation']
 the infernal walker,3.5,"comedy,drama","['comedy', 'drama']"
 the entertainer,3.5,drama,['drama']
 the crew,3.5,"comedy,drama","['comedy', 'drama']"
@@ -6803,7 +6803,7 @@ stage fright,3.5,"thriller,documentaries,others","['thriller', 'documentaries', 
 juvenile delinquents,3.5,"drama,thriller,documentaries,action","['drama', 'thriller', 'documentaries', 'action']"
 desecrated,3.5,drama,['drama']
 charlotte moon mysteries - green on the greens,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
-cattle hill,3.6,"comedy,animation","['comedy', 'animation']"
+cattle hill,3.6,animation,['animation']
 borealis,3.5,documentaries,['documentaries']
 arachnophobia,3.5,"comedy,thriller","['comedy', 'thriller']"
 advocate,3.6,"comedy,drama","['comedy', 'drama']"
@@ -6812,7 +6812,7 @@ act 5 - title 1,3.5,comedy,['comedy']
 a brand new kitchen,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 yakuza apocalypse,3.5,"comedy,thriller","['comedy', 'thriller']"
 the riverman,3.7,drama,['drama']
-royal enchantimals: a royal rescue,3.5,"comedy,animation","['comedy', 'animation']"
+royal enchantimals: a royal rescue,3.5,animation,['animation']
 rifftrax presents: devil girl from mars,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 redemption,3.6,"science fiction,action","['science fiction', 'action']"
 precipice,3.5,"thriller,action","['thriller', 'action']"
@@ -6828,7 +6828,7 @@ wings over everest,3.5,"comedy,drama","['comedy', 'drama']"
 songs for a sloth,3.5,"comedy,drama","['comedy', 'drama']"
 my true fairytale,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 i'm not him,3.6,drama,['drama']
-wheely,3.5,"comedy,animation","['comedy', 'animation']"
+wheely,3.5,animation,['animation']
 thiruvarul,3.6,drama,['drama']
 the showdown,3.6,"science fiction,action","['science fiction', 'action']"
 the secret life of the hospital,3.5,documentaries,['documentaries']
@@ -6983,7 +6983,7 @@ irish jam,3.6,comedy,['comedy']
 i write my life,3.6,"drama,others","['drama', 'others']"
 hood,3.6,comedy,['comedy']
 gold fools,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
-fairy tales and bedtime stories,3.5,"comedy,animation","['comedy', 'animation']"
+fairy tales and bedtime stories,3.5,animation,['animation']
 everybody's talking about jamie,3.5,"comedy,documentaries,others","['comedy', 'documentaries', 'others']"
 edge of the axe,3.5,"thriller,action","['thriller', 'action']"
 doggin' around,3.5,drama,['drama']
@@ -7181,7 +7181,7 @@ american drug war: the last white hope,3.6,documentaries,['documentaries']
 tripwire,3.6,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 three,3.6,comedy,['comedy']
 the last outlaw,3.5,"science fiction,action","['science fiction', 'action']"
-sound! euphonium: the movie - welcome to the kitauji high school concert band,3.5,"comedy,animation","['comedy', 'animation']"
+sound! euphonium: the movie - welcome to the kitauji high school concert band,3.5,animation,['animation']
 red water,3.5,comedy,['comedy']
 "me, myself, and i",3.5,comedy,['comedy']
 gauthamante radham,3.6,"comedy,drama","['comedy', 'drama']"
@@ -7319,7 +7319,7 @@ scarecrows,3.5,thriller,['thriller']
 saving mr. wu,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 salvador,3.5,drama,['drama']
 saginaw trail,3.5,"science fiction,action","['science fiction', 'action']"
-rugrats go wild,3.5,"comedy,animation","['comedy', 'animation']"
+rugrats go wild,3.5,animation,['animation']
 rolling thunder,3.6,"comedy,drama","['comedy', 'drama']"
 rival,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 resident evil: retribution (4k uhd),3.5,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
@@ -7329,7 +7329,7 @@ raising arizona,3.6,comedy,['comedy']
 pumpkin,3.6,"comedy,drama","['comedy', 'drama']"
 prisoners of the sun,3.5,"comedy,thriller","['comedy', 'thriller']"
 possession: the ingloda within,3.6,"thriller,action","['thriller', 'action']"
-pokémon the movie 2000,3.5,"comedy,animation","['comedy', 'animation']"
+pokémon the movie 2000,3.5,animation,['animation']
 play or die,3.5,"thriller,action","['thriller', 'action']"
 play,3.5,drama,['drama']
 pitruroon,3.5,drama,['drama']
@@ -7450,7 +7450,7 @@ bhaloo,3.4,drama,['drama']
 beer,3.5,comedy,['comedy']
 banshiwala,3.6,drama,['drama']
 bad influence,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
-babes in toyland (1997),3.5,"comedy,animation","['comedy', 'animation']"
+babes in toyland (1997),3.5,animation,['animation']
 babes in toyland (1986),3.5,"documentaries,others","['documentaries', 'others']"
 atonement,3.6,"drama,thriller,action","['drama', 'thriller', 'action']"
 assassination,3.6,comedy,['comedy']
@@ -7498,7 +7498,7 @@ savage land,3.5,"science fiction,animation,action","['science fiction', 'animati
 sashinka,3.6,"comedy,drama","['comedy', 'drama']"
 roommate (hindi),3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 red dog,3.6,comedy,['comedy']
-project a-ko 2: plot of the daitokuji financial group,3.5,"comedy,animation","['comedy', 'animation']"
+project a-ko 2: plot of the daitokuji financial group,3.5,animation,['animation']
 perfect romance,3.5,comedy,['comedy']
 pati patni aur woh,3.5,comedy,['comedy']
 paradise by the dashboard light,3.5,drama,['drama']
@@ -7554,13 +7554,13 @@ the girl who killed her parents,3.4,drama,['drama']
 the boy who killed my parents,3.5,drama,['drama']
 terror trap,3.5,"thriller,action","['thriller', 'action']"
 sight unseen,3.6,"thriller,action","['thriller', 'action']"
-secret of nimh 2: timmy to the rescue,3.5,"comedy,animation","['comedy', 'animation']"
+secret of nimh 2: timmy to the rescue,3.5,animation,['animation']
 prometheus (4k uhd),3.5,"science fiction,action","['science fiction', 'action']"
 prometheus,3.5,"science fiction,thriller,action","['science fiction', 'thriller', 'action']"
 nootokka jillala andagadu,3.6,"comedy,drama","['comedy', 'drama']"
-noddy saves christmas,3.5,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+noddy saves christmas,3.5,"animation,documentaries","['animation', 'documentaries']"
 new france,3.6,"drama,documentaries","['drama', 'documentaries']"
-morphle halloween special - the halloween candy magic pet,3.6,"comedy,animation","['comedy', 'animation']"
+morphle halloween special - the halloween candy magic pet,3.6,animation,['animation']
 maradona - the hand of god,3.5,"drama,documentaries","['drama', 'documentaries']"
 love and love only,3.6,"comedy,drama","['comedy', 'drama']"
 held up,3.5,comedy,['comedy']
@@ -7636,7 +7636,7 @@ dangerous afternoon,3.6,"drama,thriller,action","['drama', 'thriller', 'action']
 cover-up,3.5,"comedy,thriller,action","['comedy', 'thriller', 'action']"
 constantine and the cross,3.5,"drama,documentaries","['drama', 'documentaries']"
 cocomelon halloween songs,3.6,animation,['animation']
-clip: act 5 - title 5,3.6,"comedy,animation","['comedy', 'animation']"
+clip: act 5 - title 5,3.6,animation,['animation']
 clip: act 5 - title 3,3.5,comedy,['comedy']
 cheyenne wildcat,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 cbgb,3.5,"comedy,drama","['comedy', 'drama']"
@@ -7644,7 +7644,7 @@ brahmanandam drama company,3.6,"comedy,thriller,action","['comedy', 'thriller', 
 black book,3.4,"drama,thriller,action","['drama', 'thriller', 'action']"
 all good things,3.5,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 a spark in nothing,3.6,"comedy,drama","['comedy', 'drama']"
-a monkey's tale,3.6,"comedy,animation","['comedy', 'animation']"
+a monkey's tale,3.6,animation,['animation']
 50 summers,3.6,documentaries,['documentaries']
 what lies beneath,3.5,"thriller,action","['thriller', 'action']"
 warning from space,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
@@ -7669,7 +7669,7 @@ lance woods: undeniable,3.7,"comedy,documentaries,others","['comedy', 'documenta
 la cambiale,3.5,comedy,['comedy']
 kept woman,3.5,"drama,thriller,action","['drama', 'thriller', 'action']"
 jurassic galaxy,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-invasion of the cubecumbers,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+invasion of the cubecumbers,3.6,"animation,documentaries","['animation', 'documentaries']"
 iberion,3.4,"comedy,drama,thriller,action","['comedy', 'drama', 'thriller', 'action']"
 i motorizzati,3.4,comedy,['comedy']
 hyderabad dreams,3.6,drama,['drama']
@@ -7823,7 +7823,7 @@ adventure thru the walt disney archives,3.6,documentaries,['documentaries']
 puppy for hanukkah,3.5,"comedy,drama,music","['comedy', 'drama', 'music']"
 the pixar story,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 america the beautiful,3.5,documentaries,['documentaries']
-baymax!,3.5,"comedy,animation","['comedy', 'animation']"
+baymax!,3.5,animation,['animation']
 ciao alberto,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 enchanted,3.5,"comedy,drama","['comedy', 'drama']"
 feast,3.4,"comedy,drama,animation","['comedy', 'drama', 'animation']"
@@ -7840,7 +7840,7 @@ shang-chi and the legend of the ten rings,3.6,"comedy,drama,science fiction,acti
 spin,3.6,"comedy,drama,music","['comedy', 'drama', 'music']"
 tangled ever after,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the ballad of nessie,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-the little matchgirl,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+the little matchgirl,3.6,"drama,animation","['drama', 'animation']"
 the making of happier than ever: a love letter to los angeles,3.5,music,['music']
 the proud family: louder and prouder,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the simpsons in plusaversary,3.5,"comedy,animation","['comedy', 'animation']"
@@ -7878,7 +7878,7 @@ a spark story,3.5,documentaries,['documentaries']
 spooky buddies,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the fault in our stars,3.6,"comedy,drama","['comedy', 'drama']"
 confessions of a shopaholic,3.6,"comedy,drama","['comedy', 'drama']"
-descendants: royal wedding,3.5,"comedy,drama,animation,music","['comedy', 'drama', 'animation', 'music']"
+descendants: royal wedding,3.5,"drama,animation,music","['drama', 'animation', 'music']"
 disney's broadway hits at london's royal albert hall,3.4,music,['music']
 flooded tombs of the nile,3.5,documentaries,['documentaries']
 jade eyed leopard,3.4,documentaries,['documentaries']
@@ -7918,7 +7918,7 @@ we bought a zoo,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documenta
 world's biggest bullshark,3.5,documentaries,['documentaries']
 world's most dangerous shark?,3.5,documentaries,['documentaries']
 flicka,3.4,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
-"miraculous world: shanghai, the legend of ladydragon",3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+"miraculous world: shanghai, the legend of ladydragon",3.5,"drama,animation","['drama', 'animation']"
 orca vs. great white,3.6,documentaries,['documentaries']
 rogue shark?,3.6,documentaries,['documentaries']
 shark beach with chris hemsworth,3.5,documentaries,['documentaries']
@@ -7966,7 +7966,7 @@ ewoks: the battle for endor,3.6,"comedy,drama,science fiction,action","['comedy'
 island at the top of the world,3.4,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 night at the museum,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 sharks of the bermuda triangle,3.6,documentaries,['documentaries']
-star wars vintage: story of the faithful wookiee,3.5,"comedy,animation","['comedy', 'animation']"
+star wars vintage: story of the faithful wookiee,3.5,animation,['animation']
 the big year,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 the last ice,3.6,documentaries,['documentaries']
 third man on the mountain,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
@@ -8034,7 +8034,7 @@ home alone 2: lost in new york,3.5,"comedy,drama","['comedy', 'drama']"
 home alone 3,3.5,"comedy,drama","['comedy', 'drama']"
 petra: secrets of the ancient builders,3.5,"thriller,documentaries","['thriller', 'documentaries']"
 ultimate viking sword,3.6,"thriller,documentaries","['thriller', 'documentaries']"
-disney's a christmas carol,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+disney's a christmas carol,3.5,"drama,animation","['drama', 'animation']"
 mr. magoo,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 prep & landing,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 prep & landing: naughty vs. nice,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
@@ -8282,11 +8282,11 @@ avatar,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'actio
 babes in the woods,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 babes in toyland,3.5,"comedy,drama,music","['comedy', 'drama', 'music']"
 bambi,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-bambi ii,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+bambi ii,3.6,"drama,animation","['drama', 'animation']"
 bao,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 beach picnic,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 bearly asleep,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-beauty and the beast: belle's magical world,3.6,"comedy,drama,animation,thriller","['comedy', 'drama', 'animation', 'thriller']"
+beauty and the beast: belle's magical world,3.6,"drama,animation,thriller","['drama', 'animation', 'thriller']"
 beauty and the beast: the enchanted christmas,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 beezy bear,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 before the flood,3.6,documentaries,['documentaries']
@@ -8329,8 +8329,8 @@ chef donald,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 chicken little,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 chip an' dale,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 cinderella,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-cinderella ii: dreams come true,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-cinderella iii: a twist in time,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+cinderella ii: dreams come true,3.6,"drama,animation","['drama', 'animation']"
+cinderella iii: a twist in time,3.5,"drama,animation","['drama', 'animation']"
 clock cleaners,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 cloud 9,3.6,documentaries,['documentaries']
 college road trip,3.5,"comedy,drama","['comedy', 'drama']"
@@ -8630,7 +8630,7 @@ santa's workshop,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 saving mr. banks,3.5,"drama,thriller,documentaries","['drama', 'thriller', 'documentaries']"
 science fair,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 sea of hope: america's underwater treasures,3.6,"comedy,science fiction,documentaries,action","['comedy', 'science fiction', 'documentaries', 'action']"
-secret of the wings,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+secret of the wings,3.5,"drama,animation","['drama', 'animation']"
 secretariat,3.5,"drama,documentaries","['drama', 'documentaries']"
 secrets of christ's tomb: explorer special,3.6,"thriller,documentaries","['thriller', 'documentaries']"
 secrets of life,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
@@ -8676,7 +8676,7 @@ teen spirit,3.5,"comedy,drama","['comedy', 'drama']"
 that darn cat,3.6,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 that darn cat!,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 the absent-minded professor,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
-the adventures of andré & wally b.,3.6,"comedy,animation","['comedy', 'animation']"
+the adventures of andré & wally b.,3.6,animation,['animation']
 the adventures of bullwhip griffin,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 the adventures of huck finn,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 the adventures of ichabod and mr. toad,3.5,"comedy,science fiction,animation,thriller,action","['comedy', 'science fiction', 'animation', 'thriller', 'action']"
@@ -8728,14 +8728,14 @@ the legend of mor'du,3.5,"comedy,drama,animation","['comedy', 'drama', 'animatio
 the lion king 1 1/2,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 the lion king 2: simba's pride,3.6,"comedy,drama,science fiction,animation,action","['comedy', 'drama', 'science fiction', 'animation', 'action']"
 the little mermaid,3.6,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-the little mermaid ii:  return to the sea,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+the little mermaid ii:  return to the sea,3.5,"drama,animation","['drama', 'animation']"
 the little mermaid:  ariel's beginning,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the little whirlwind,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the living desert,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
 the lizzie mcguire movie,3.5,"comedy,drama","['comedy', 'drama']"
 the lost tomb of alexander the great,3.6,"thriller,documentaries","['thriller', 'documentaries']"
 the love bug (1969),3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
-the many adventures of winnie the pooh,3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+the many adventures of winnie the pooh,3.5,"animation,music","['animation', 'music']"
 the million dollar duck,3.6,"comedy,drama","['comedy', 'drama']"
 the mistle-tones,3.6,"drama,music","['drama', 'music']"
 the muppet christmas carol,3.5,"comedy,drama","['comedy', 'drama']"
@@ -8831,8 +8831,8 @@ white fang,3.5,"comedy,drama,science fiction,documentaries,action","['comedy', '
 who framed roger rabbit,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 winged seduction: birds of paradise,3.5,"comedy,science fiction,documentaries,action","['comedy', 'science fiction', 'documentaries', 'action']"
 winnie the pooh,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
-winnie the pooh: a very merry pooh year,3.7,"comedy,animation","['comedy', 'animation']"
-winnie the pooh: springtime with roo,3.6,"comedy,animation,music","['comedy', 'animation', 'music']"
+winnie the pooh: a very merry pooh year,3.7,animation,['animation']
+winnie the pooh: springtime with roo,3.6,"animation,music","['animation', 'music']"
 winter storage,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 wizards of waverly place: the movie,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 world's greatest dogs,3.5,"comedy,drama,documentaries","['comedy', 'drama', 'documentaries']"
@@ -8885,7 +8885,7 @@ the loneliest whale: the search for 52,3.5,documentaries,['documentaries']
 gunda,3.5,documentaries,['documentaries']
 g.i. joe: retaliation,3.4,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 rogue hostage,3.5,"comedy,thriller","['comedy', 'thriller']"
-yashahime: princess half-demon,3.6,"comedy,animation","['comedy', 'animation']"
+yashahime: princess half-demon,3.6,animation,['animation']
 jacinta,3.5,documentaries,['documentaries']
 fifa world cup 2022 qualifying,3.6,documentaries,['documentaries']
 bellator mma 257: nemkov vs. davis 2 (r),3.6,documentaries,['documentaries']
@@ -9156,7 +9156,7 @@ pieta,3.5,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
 raiders!: the story of the greatest fan film ever made,3.5,documentaries,['documentaries']
 the act of killing,3.5,drama,['drama']
 the complex: lockdown,3.6,"science fiction,action","['science fiction', 'action']"
-the congress,3.5,"comedy,drama,science fiction,animation,action","['comedy', 'drama', 'science fiction', 'animation', 'action']"
+the congress,3.5,"drama,science fiction,animation,action","['drama', 'science fiction', 'animation', 'action']"
 the connection,3.5,thriller,['thriller']
 the final member,3.5,"documentaries,others","['documentaries', 'others']"
 the fp,3.5,comedy,['comedy']
@@ -9494,8 +9494,8 @@ everyone is doing great,3.7,drama,['drama']
 24 hours: assault on the capitol,3.5,others,['others']
 lights out,3.5,thriller,['thriller']
 the rhythm section,3.6,"comedy,thriller","['comedy', 'thriller']"
-mushoku tensei: jobless reincarnation,3.6,"comedy,animation","['comedy', 'animation']"
-horimiya,3.5,"comedy,animation","['comedy', 'animation']"
+mushoku tensei: jobless reincarnation,3.6,animation,['animation']
+horimiya,3.5,animation,['animation']
 celebs go dating,3.5,comedy,['comedy']
 gretel & hansel,3.6,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
 gordon ramsay's american road trip,3.5,documentaries,['documentaries']
@@ -9641,7 +9641,7 @@ what to expect when you're expecting,3.6,"comedy,drama","['comedy', 'drama']"
 bad hair,3.6,"comedy,thriller","['comedy', 'thriller']"
 beyond the headlines: escaping the nxivm cult with gretchen carlson,3.6,"drama,documentaries","['drama', 'documentaries']"
 "cyrano, my love",3.6,"comedy,drama","['comedy', 'drama']"
-madagascar: a little wild - a fang-tastic halloween,3.5,"comedy,drama,animation,action","['comedy', 'drama', 'animation', 'action']"
+madagascar: a little wild - a fang-tastic halloween,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
 the broken land,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 celeste & jesse forever,3.5,"comedy,drama","['comedy', 'drama']"
 totally under control,3.5,documentaries,['documentaries']
@@ -9660,7 +9660,7 @@ surrogates,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'a
 terminator: dark fate,3.6,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
 books of blood,3.5,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
 colossal,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
-dragon quest: the adventure of dai,3.5,"comedy,animation","['comedy', 'animation']"
+dragon quest: the adventure of dai,3.5,animation,['animation']
 monsterland,3.4,thriller,['thriller']
 across the line,3.4,"comedy,drama","['comedy', 'drama']"
 blade: trinity,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'action']"
@@ -9878,11 +9878,11 @@ spaceship earth,3.6,documentaries,['documentaries']
 the hustle,3.6,comedy,['comedy']
 fine lines,3.6,documentaries,['documentaries']
 pain and glory,3.5,"drama,others","['drama', 'others']"
-shironeko project zero chronicle,3.6,"comedy,animation","['comedy', 'animation']"
+shironeko project zero chronicle,3.6,animation,['animation']
 the 33,3.5,drama,['drama']
 the lodge,3.6,thriller,['thriller']
 after class,3.6,"comedy,drama","['comedy', 'drama']"
-arte,3.5,"comedy,drama,animation,documentaries","['comedy', 'drama', 'animation', 'documentaries']"
+arte,3.5,"drama,animation,documentaries","['drama', 'animation', 'documentaries']"
 unlocking victory,3.5,documentaries,['documentaries']
 boomtown,3.6,drama,['drama']
 christine,3.5,drama,['drama']
@@ -9938,8 +9938,8 @@ racetime,3.5,"comedy,science fiction,action","['comedy', 'science fiction', 'act
 radioflash,3.5,"comedy,science fiction,thriller,action","['comedy', 'science fiction', 'thriller', 'action']"
 sea of shadows,3.6,"drama,documentaries","['drama', 'documentaries']"
 alive,3.6,documentaries,['documentaries']
-infinite dendrogram,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
-"bofuri: i don't want to get hurt, so i'll max out my defense.",3.6,"comedy,animation,others","['comedy', 'animation', 'others']"
+infinite dendrogram,3.5,"science fiction,animation,action","['science fiction', 'animation', 'action']"
+"bofuri: i don't want to get hurt, so i'll max out my defense.",3.6,"animation,others","['animation', 'others']"
 my valentine,3.6,thriller,['thriller']
 plunderer,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 angel of mine,3.6,"comedy,drama,thriller","['comedy', 'drama', 'thriller']"
@@ -9964,8 +9964,8 @@ my little pony: a very minty christmas en español,3.6,animation,['animation']
 my little pony: the princess promenade en español,3.5,animation,['animation']
 my little pony: twinkle wish adventure en español,3.6,animation,['animation']
 nisekoi,3.5,"comedy,animation,others","['comedy', 'animation', 'others']"
-plastic memories,3.5,"comedy,animation,others","['comedy', 'animation', 'others']"
-sword art online extra edition,3.6,"comedy,animation,others","['comedy', 'animation', 'others']"
+plastic memories,3.5,"animation,others","['animation', 'others']"
+sword art online extra edition,3.6,"animation,others","['animation', 'others']"
 brian banks,3.5,"comedy,drama","['comedy', 'drama']"
 luce,3.5,"comedy,drama","['comedy', 'drama']"
 emanuel,3.5,documentaries,['documentaries']
@@ -10022,7 +10022,7 @@ loro,3.6,"drama,others","['drama', 'others']"
 cold case hammarskjöld,3.6,documentaries,['documentaries']
 the kid,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 wild rose,3.6,"comedy,drama,music","['comedy', 'drama', 'music']"
-id: invaded,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+id: invaded,3.5,"drama,animation","['drama', 'animation']"
 depraved,3.6,thriller,['thriller']
 blackfish,3.6,documentaries,['documentaries']
 fast color,3.5,"drama,science fiction,thriller,action","['drama', 'science fiction', 'thriller', 'action']"
@@ -10300,10 +10300,10 @@ obey giant,3.4,documentaries,['documentaries']
 scandalize my name,3.5,documentaries,['documentaries']
 too funny to fail: the life & death of the dana carvey show,3.5,"comedy,documentaries","['comedy', 'documentaries']"
 (dub) afro samurai resurrection,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
-(dub) dragon age: dawn of the seeker,3.5,"comedy,animation","['comedy', 'animation']"
+(dub) dragon age: dawn of the seeker,3.5,animation,['animation']
 (dub) mass effect: paragon lost,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 (sub) fafner: heaven and earth,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
-(sub) fairy tail the movie: phoenix priestess,3.5,"comedy,drama,animation","['comedy', 'drama', 'animation']"
+(sub) fairy tail the movie: phoenix priestess,3.5,"drama,animation","['drama', 'animation']"
 (sub) trigun: badlands rumble,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 bad company,3.5,"drama,science fiction,action","['drama', 'science fiction', 'action']"
 hannie caulder,3.5,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
@@ -10347,7 +10347,7 @@ all saints (1998),3.6,"drama,others","['drama', 'others']"
 getting on,3.6,"comedy,others","['comedy', 'others']"
 (sub) ninja scroll,3.5,"comedy,science fiction,animation,action","['comedy', 'science fiction', 'animation', 'action']"
 packed to the rafters,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
-(sub) legend of heroes: trails in the sky,3.4,"comedy,science fiction,animation,action,others","['comedy', 'science fiction', 'animation', 'action', 'others']"
+(sub) legend of heroes: trails in the sky,3.4,"science fiction,animation,action,others","['science fiction', 'animation', 'action', 'others']"
 amy winehouse: a final goodbye,3.6,"documentaries,music","['documentaries', 'music']"
 dick johnson is dead,3.6,documentaries,['documentaries']
 my little pony: a new generation,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
@@ -10810,7 +10810,7 @@ cobra kai - the afterparty,3.6,others,['others']
 to all the boys: always and forever - the afterparty,3.6,others,['others']
 sarbath,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 skater girl,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
-trese after dark,3.6,"comedy,animation,documentaries","['comedy', 'animation', 'documentaries']"
+trese after dark,3.6,"animation,documentaries","['animation', 'documentaries']"
 wish dragon,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 a haunted house 2,3.6,"comedy,thriller,others","['comedy', 'thriller', 'others']"
 blind intersections,3.5,"drama,others","['drama', 'others']"
@@ -11698,7 +11698,7 @@ sky tour: the movie,3.5,"documentaries,others,music","['documentaries', 'others'
 adrift,3.5,"comedy,drama,science fiction,action,others","['comedy', 'drama', 'science fiction', 'action', 'others']"
 always be my maybe,3.5,"drama,others","['drama', 'others']"
 barbie princess adventure,3.5,"comedy,drama,others,music","['comedy', 'drama', 'others', 'music']"
-children of the sea,3.5,"comedy,animation,others","['comedy', 'animation', 'others']"
+children of the sea,3.5,"animation,others","['animation', 'others']"
 fate/grand order -first order-,3.6,"comedy,science fiction,animation,action,others","['comedy', 'science fiction', 'animation', 'action', 'others']"
 puss in boots,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 sex drive,3.5,comedy,['comedy']
@@ -12127,7 +12127,7 @@ coffee & kareem,3.5,"comedy,science fiction,action","['comedy', 'science fiction
 money heist: the phenomenon,3.5,"documentaries,others","['documentaries', 'others']"
 the death of stalin,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 sol levante,3.5,"comedy,science fiction,animation,action,others","['comedy', 'science fiction', 'animation', 'action', 'others']"
-violet evergarden: eternity and the auto memory doll,3.6,"comedy,drama,science fiction,animation,action,others","['comedy', 'drama', 'science fiction', 'animation', 'action', 'others']"
+violet evergarden: eternity and the auto memory doll,3.6,"drama,science fiction,animation,action,others","['drama', 'science fiction', 'animation', 'action', 'others']"
 agneepath,3.5,"drama,others","['drama', 'others']"
 brothers,3.5,"comedy,drama,science fiction,action,others","['comedy', 'drama', 'science fiction', 'action', 'others']"
 chhota bheem and the curse of damyaan,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
@@ -12184,7 +12184,7 @@ ultras,3.6,"drama,documentaries,others","['drama', 'documentaries', 'others']"
 altered carbon: resleeved,3.5,"comedy,science fiction,animation,action,others","['comedy', 'science fiction', 'animation', 'action', 'others']"
 masameer - the movie,3.5,"comedy,others","['comedy', 'others']"
 alli wish,3.6,"drama,others","['drama', 'others']"
-lu over the wall,3.4,"comedy,drama,science fiction,animation,action,music","['comedy', 'drama', 'science fiction', 'animation', 'action', 'music']"
+lu over the wall,3.4,"drama,science fiction,animation,action,music","['drama', 'science fiction', 'animation', 'action', 'music']"
 xv: beyond the tryline,3.5,"documentaries,others","['documentaries', 'others']"
 bert kreischer: hey big boy,3.6,comedy,['comedy']
 search party,3.5,comedy,['comedy']
@@ -12358,7 +12358,7 @@ blitz patrollie,3.5,"comedy,science fiction,action,others","['comedy', 'science 
 the vendor,3.6,"comedy,others","['comedy', 'others']"
 the app,3.5,"drama,others","['drama', 'others']"
 doom: annihilation,3.6,"comedy,drama,science fiction,thriller,action,others","['comedy', 'drama', 'science fiction', 'thriller', 'action', 'others']"
-fireworks,3.4,"comedy,drama,animation,others","['comedy', 'drama', 'animation', 'others']"
+fireworks,3.4,"drama,animation,others","['drama', 'animation', 'others']"
 grand-daddy day care,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
 jarhead: law of return,3.6,"comedy,drama,science fiction,action","['comedy', 'drama', 'science fiction', 'action']"
 mfkz,3.6,"comedy,science fiction,action,others","['comedy', 'science fiction', 'action', 'others']"
@@ -12475,10 +12475,10 @@ el sendero de la anaconda,3.6,"documentaries,others","['documentaries', 'others'
 go! the unforgettable party,3.5,"comedy,drama,others,music","['comedy', 'drama', 'others', 'music']"
 guna 369,3.6,"comedy,drama,science fiction,action,others","['comedy', 'drama', 'science fiction', 'action', 'others']"
 house arrest,3.6,"comedy,others","['comedy', 'others']"
-k-on! the movie,3.5,"comedy,animation,music","['comedy', 'animation', 'music']"
+k-on! the movie,3.5,"animation,music","['animation', 'music']"
 klaus,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 sunganges,3.6,"documentaries,others","['documentaries', 'others']"
-the garden of words,3.6,"comedy,drama,animation,others","['comedy', 'drama', 'animation', 'others']"
+the garden of words,3.6,"drama,animation,others","['drama', 'animation', 'others']"
 fadily camara : la plus drôle de tes copines,3.6,comedy,['comedy']
 jeff garlin: our man in chicago,3.5,comedy,['comedy']
 a single man,3.5,"drama,others","['drama', 'others']"
@@ -12594,7 +12594,7 @@ cultivating the seas: history and future of the full-cycle cultured kindai tuna,
 tuna girl,3.5,"drama,others","['drama', 'others']"
 deliha 2,3.5,"comedy,others","['comedy', 'others']"
 in the shadow of the moon,3.5,"drama,science fiction,thriller,action","['drama', 'science fiction', 'thriller', 'action']"
-sturgill simpson presents sound & fury,3.5,"comedy,drama,science fiction,animation,action,music","['comedy', 'drama', 'science fiction', 'animation', 'action', 'music']"
+sturgill simpson presents sound & fury,3.5,"drama,science fiction,animation,action,music","['drama', 'science fiction', 'animation', 'action', 'music']"
 malaal,3.6,"drama,others","['drama', 'others']"
 the grandmaster,3.5,"comedy,drama,science fiction,action,others","['comedy', 'drama', 'science fiction', 'action', 'others']"
 birders,3.5,"documentaries,others","['documentaries', 'others']"
@@ -12748,7 +12748,7 @@ rock my heart,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 stree,3.5,"comedy,thriller,others","['comedy', 'thriller', 'others']"
 the black godfather,3.6,"documentaries,music","['documentaries', 'music']"
 alles ist gut,3.6,"drama,others","['drama', 'others']"
-a silent voice,3.5,"comedy,animation,others","['comedy', 'animation', 'others']"
+a silent voice,3.5,"animation,others","['animation', 'others']"
 cosmos laundromat: first cycle,3.5,"drama,science fiction,action,others","['drama', 'science fiction', 'action', 'others']"
 miranda sings live…your welcome,3.6,comedy,['comedy']
 silent,3.5,"comedy,drama,science fiction,action,others","['comedy', 'drama', 'science fiction', 'action', 'others']"
@@ -13362,7 +13362,7 @@ perdida,3.5,"drama,thriller,others","['drama', 'thriller', 'others']"
 2 states,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
 baaghi,3.5,"comedy,science fiction,action,others","['comedy', 'science fiction', 'action', 'others']"
 brij mohan amar rahe,3.5,"comedy,drama,others","['comedy', 'drama', 'others']"
-flavors of youth: international version,3.6,"comedy,drama,animation,others","['comedy', 'drama', 'animation', 'others']"
+flavors of youth: international version,3.6,"drama,animation,others","['drama', 'animation', 'others']"
 like father,3.4,"comedy,drama","['comedy', 'drama']"
 7 khoon maaf,3.7,"drama,thriller,others","['drama', 'thriller', 'others']"
 chillar party,3.6,"comedy,drama,others","['comedy', 'drama', 'others']"
@@ -15399,7 +15399,7 @@ minnaminugu the firefly,3.5,"drama,others","['drama', 'others']"
 miracle,3.6,"comedy,drama,documentaries,others","['comedy', 'drama', 'documentaries', 'others']"
 mirror mirror,3.7,"comedy,drama,others","['comedy', 'drama', 'others']"
 mirzya,3.6,"drama,others,music","['drama', 'others', 'music']"
-miss hokusai,3.6,"comedy,animation","['comedy', 'animation']"
+miss hokusai,3.6,animation,['animation']
 miss julie,3.5,"drama,others","['drama', 'others']"
 miss me this christmas,3.6,"drama,others","['drama', 'others']"
 miss representation,3.5,documentaries,['documentaries']
