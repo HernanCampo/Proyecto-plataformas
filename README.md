@@ -11,7 +11,7 @@ Los mismos estan en formato csv con los cuales debemos unirlos para realizar un 
 
 ## Objetivos: 
 
-Realizar un trabajo de ETL sobre los datasets recibidos, luego, levantar una API generando diferentes endpoints que se consumiran en la API.
+Realizar un trabajo de ETL sobre los datasets recibidos, luego generar funciones con diferentes endpoints que se consumiran en una FastAPI y luego realizar un Deploy en Render.
 
 Transformaciones(ETL):
 
@@ -43,6 +43,11 @@ Crear 7 funciones
 
 - Junto al modelo de ML crear un sistema de recomendacion de peliculas llamado get_recomendation.
 
+Deployment:
+
+- Se debe realizar el deploymente de la FastAPI sobre alguna plataforma, en mi caso utilice render. https://dashboard.render.com/
+- Esta herramienta me parecio facil, efectiva para lo solicitado. Me hubiese gustado poder entregar otras versiones de las funciones ya que me veia limitado por el espacio que ofrece render de manera gratuita.
+
 
 ## Contenidos del Repositorio:
 
@@ -61,7 +66,8 @@ anomalos.
 
 + En el notebook `FuncionesApi.ipynb` se encuentra una copia de las funciones de API solo para poder realizar pruebas de manera mas rapida.
 
-+ El resto de los Dataset que se utilizaron se encuentran en el siguiente drive https://drive.google.com/drive/u/0/folders/1T02IMQyVbaf2iPDh_gmwh885s1RNNgIQ Compuesto por los archivos madre/originales que se utilizaron.
++ El resto de los Dataset que se utilizaron se encuentran en un Drive ya que subirlos en GitHub producia problemas al deploy.
+  El link del drive se encuentra mas abajo y esta compuesto por los archivos originales que se utilizaron.
 
 + El archivo `requirements.txt` en el cual se encuentra las librerias utilizadas para el deploy.
 
@@ -82,6 +88,8 @@ anomalos.
 - scikit-learn (TfidfVectorizer - cosine_similarity) - collections (Counter) 
 
 ## Links:
+
++ Drive con los dataset: https://drive.google.com/drive/u/0/folders/1T02IMQyVbaf2iPDh_gmwh885s1RNNgIQ
 
 + Video Explicativo de la API: 
 
