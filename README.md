@@ -7,11 +7,10 @@
 Mi nombre es Hernán Campodónico, estoy realizando una presentacion del proyecto que se realiza en los labs de Data Science de SoyHenry. 
 Este proyecto busca situarnos en el rol de un Data Engineer con conocimientos en Machine Learning.
 Para realizarlo se nos entregan 4 datasets de distintas plataformas de streaming, amazon, disney, hulu, netflix y 8 dataset que contienen el rating/score que ciertos usuarios realizaron.
-Los mismos estan en formato csv con los cuales debemos unirlos para realizar un ETL y un EDA sobre cada uno, para luego realizar una API y un modelo de ML de tipo recomendacion.
 
 ## Objetivos: 
 
-Realizar un trabajo de ETL sobre los datasets recibidos, luego generar funciones con diferentes endpoints que se consumiran en una FastAPI y luego realizar un Deploy en Render.
+Realizar un trabajo de ETL y EDA sobre los datasets recibidos, luego generar funciones con diferentes endpoints que se consumiran en una FastAPI y luego realizar el Deploy en Render.
 
 Transformaciones(ETL):
 
@@ -52,11 +51,8 @@ Deployment:
 ## Contenidos del Repositorio:
 
 + En el notebook `ETL.ipynb` se encuentra el código comentado paso por paso, explicando las decisiones tomadas a la hora de encarar este proyecto;
-Lo realice de esta manera para que estuviera ordenado, se entendienda el paso a paso de lo que fui aplicando y explicando.
-Con esto espero documentar y demostrar el desarrollo del proyecto.
 
-+ En el notebook `EDA.ipynb` se encuentra un pequeño analisis del dataset generado previamente por el ETL. En el mismo se encuentran la verificacion de outliers, posibles registros mal cargados y registros
-anomalos.
++ En el notebook `EDA.ipynb` se encuentra un pequeño analisis del dataset generado previamente por el ETL. En el mismo vemos outliers, posibles registros mal cargados y registros anomalos.
 
 + En el archivo `main.py` se encuentran todas las funciones configuradas de la API listas para hacer que se instancien los decoradores de la API para luego hacer el deploy.
 
@@ -65,9 +61,6 @@ anomalos.
 + En los archivos CSV `plataformas.csv` y `ML.csv` se encuentran los DataSet trabajados o Dataset finales que se usan para la implementacion de las funciones de la API.
 
 + En el notebook `FuncionesApi.ipynb` se encuentra una copia de las funciones de API solo para poder realizar pruebas de manera mas rapida.
-
-+ El resto de los Dataset que se utilizaron se encuentran en un Drive ya que subirlos en GitHub producia problemas al deploy.
-  El link del drive se encuentra mas abajo y esta compuesto por los archivos originales que se utilizaron.
 
 + El archivo `requirements.txt` en el cual se encuentra las librerias utilizadas para el deploy.
 
@@ -84,8 +77,8 @@ anomalos.
 + FastAPI.
 
 ## Librerias utilizadas:
-- pandas - matplotlib - seaborn - uvicorn - scikit-learn - uvicorn - 
-- scikit-learn (TfidfVectorizer - cosine_similarity) - collections (Counter) 
+
+- pandas - matplotlib - seaborn - uvicorn - scikit-learn (TfidfVectorizer - cosine_similarity) 
 
 ## Links:
 
