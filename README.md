@@ -84,6 +84,6 @@ Deployment:
 
 + Drive con los dataset: https://drive.google.com/drive/u/0/folders/1T02IMQyVbaf2iPDh_gmwh885s1RNNgIQ
 
-+ Video Explicativo de la API: 
++ Video Explicativo de la API: https://www.youtube.com/watch?v=qACAMbbPsZM -- https://www.youtube.com/watch?v=x4oXV-OfVAk 
 
 + Deploy de la API en Render: https://fastapi-qljo.onrender.com/docs
