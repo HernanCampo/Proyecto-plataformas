@@ -137,7 +137,7 @@ def prod_per_county(tipo: str, pais: str, anio: int):
     # Obtener el recuento de películas para el país especificado
     respuesta = count_por_pais.get(pais, 0)
     
-    return {'pais': pais,'anio': anio,'peliculas': respuesta}    
+    return {'pais': pais,'anio': anio,'contenido': respuesta}    
         
 @app.get('/get_contents/{rating}')   
 def get_contents(rating: str):       
